@@ -1,0 +1,2001 @@
+Student_ID,Session_ID,Timestamp,Activity_Type,Outcome
+1,14,2024-01-01 01:52:00,Read Material,Success
+1,44,2024-01-01 02:26:00,Forum Discussion,Failure
+1,193,2024-01-01 03:12:00,Watch Video,Failure
+1,89,2024-01-01 03:50:00,Attempt Quiz,Completed
+1,239,2024-01-01 04:34:00,Request Hint,Completed
+1,159,2024-01-01 04:50:00,Read Material,In Progress
+1,12,2024-01-01 08:04:00,Submit Assignment,Completed
+1,128,2024-01-01 08:06:00,Request Hint,Completed
+1,20,2024-01-01 08:11:00,Submit Assignment,Failure
+1,229,2024-01-01 08:55:00,Attempt Quiz,Failure
+1,281,2024-01-01 11:45:00,Watch Video,Failure
+1,101,2024-01-01 12:18:00,Read Material,Success
+1,61,2024-01-01 13:26:00,Forum Discussion,Success
+1,231,2024-01-01 13:47:00,Watch Video,Failure
+1,116,2024-01-01 15:30:00,Watch Video,In Progress
+1,8,2024-01-01 15:53:00,Watch Video,Completed
+1,38,2024-01-01 17:47:00,Submit Assignment,Failure
+1,255,2024-01-01 18:34:00,Request Hint,Failure
+1,81,2024-01-01 20:50:00,Attempt Quiz,Failure
+1,279,2024-01-01 20:58:00,Submit Assignment,In Progress
+1,124,2024-01-01 21:57:00,Watch Video,Completed
+1,51,2024-01-01 22:17:00,Forum Discussion,Completed
+1,273,2024-01-01 22:27:00,Attempt Quiz,Failure
+1,294,2024-01-01 23:29:00,Request Hint,In Progress
+1,127,2024-01-02 01:25:00,Request Hint,Completed
+1,32,2024-01-02 08:00:00,Read Material,Completed
+2,154,2024-01-01 00:16:00,Request Hint,Success
+2,90,2024-01-01 00:20:00,Attempt Quiz,Failure
+2,183,2024-01-01 00:58:00,Submit Assignment,Completed
+2,213,2024-01-01 01:12:00,Attempt Quiz,Failure
+2,73,2024-01-01 03:38:00,Request Hint,In Progress
+2,102,2024-01-01 03:43:00,Read Material,Completed
+2,132,2024-01-01 03:44:00,Watch Video,In Progress
+2,143,2024-01-01 03:52:00,Request Hint,Success
+2,39,2024-01-01 04:49:00,Request Hint,Failure
+2,208,2024-01-01 06:42:00,Attempt Quiz,Success
+2,246,2024-01-01 09:01:00,Attempt Quiz,Completed
+2,227,2024-01-01 09:28:00,Forum Discussion,Success
+2,283,2024-01-01 16:07:00,Request Hint,Failure
+2,284,2024-01-01 18:05:00,Read Material,Success
+2,63,2024-01-01 18:08:00,Read Material,Success
+2,109,2024-01-01 20:05:00,Forum Discussion,Failure
+2,100,2024-01-01 21:20:00,Watch Video,In Progress
+2,63,2024-01-01 23:28:00,Read Material,Failure
+2,114,2024-01-01 23:34:00,Submit Assignment,Failure
+2,27,2024-01-02 00:47:00,Attempt Quiz,Success
+2,160,2024-01-02 06:13:00,Submit Assignment,Success
+2,179,2024-01-02 07:38:00,Read Material,Completed
+2,289,2024-01-02 08:52:00,Request Hint,Failure
+3,233,2024-01-01 00:13:00,Read Material,In Progress
+3,188,2024-01-01 00:44:00,Read Material,Completed
+3,120,2024-01-01 02:25:00,Forum Discussion,In Progress
+3,145,2024-01-01 03:16:00,Forum Discussion,Completed
+3,245,2024-01-01 03:39:00,Request Hint,In Progress
+3,21,2024-01-01 04:18:00,Forum Discussion,Failure
+3,118,2024-01-01 05:01:00,Read Material,Success
+3,128,2024-01-01 11:46:00,Request Hint,Success
+3,132,2024-01-01 12:20:00,Request Hint,In Progress
+3,51,2024-01-01 13:35:00,Watch Video,Failure
+3,220,2024-01-01 14:03:00,Submit Assignment,In Progress
+3,101,2024-01-01 16:13:00,Forum Discussion,Failure
+3,139,2024-01-01 17:11:00,Request Hint,In Progress
+3,270,2024-01-01 17:56:00,Watch Video,In Progress
+3,214,2024-01-01 22:31:00,Forum Discussion,In Progress
+3,96,2024-01-02 01:33:00,Attempt Quiz,Success
+3,28,2024-01-02 02:45:00,Watch Video,Completed
+3,233,2024-01-02 03:32:00,Forum Discussion,In Progress
+3,199,2024-01-02 04:20:00,Read Material,Failure
+3,241,2024-01-02 04:38:00,Request Hint,Success
+3,202,2024-01-02 07:59:00,Submit Assignment,Success
+3,126,2024-01-02 08:28:00,Submit Assignment,Success
+3,262,2024-01-02 08:35:00,Read Material,Completed
+4,122,2024-01-01 00:51:00,Watch Video,Completed
+4,207,2024-01-01 01:11:00,Read Material,In Progress
+4,293,2024-01-01 01:15:00,Watch Video,Success
+4,161,2024-01-01 02:42:00,Read Material,Failure
+4,42,2024-01-01 06:01:00,Attempt Quiz,Failure
+4,133,2024-01-01 08:57:00,Watch Video,Completed
+4,22,2024-01-01 11:22:00,Attempt Quiz,Completed
+4,100,2024-01-01 13:51:00,Read Material,Failure
+4,86,2024-01-01 14:44:00,Attempt Quiz,Failure
+4,144,2024-01-01 15:07:00,Read Material,Success
+4,125,2024-01-01 15:08:00,Forum Discussion,Success
+4,163,2024-01-01 17:01:00,Attempt Quiz,In Progress
+4,124,2024-01-01 17:22:00,Read Material,In Progress
+4,174,2024-01-01 18:54:00,Submit Assignment,Success
+4,139,2024-01-01 22:26:00,Watch Video,Completed
+4,141,2024-01-02 00:05:00,Request Hint,In Progress
+4,54,2024-01-02 02:54:00,Request Hint,In Progress
+4,104,2024-01-02 04:08:00,Attempt Quiz,Completed
+4,169,2024-01-02 07:28:00,Request Hint,Success
+5,261,2024-01-01 02:02:00,Attempt Quiz,Completed
+5,156,2024-01-01 02:27:00,Read Material,In Progress
+5,7,2024-01-01 07:38:00,Watch Video,In Progress
+5,273,2024-01-01 10:50:00,Watch Video,Failure
+5,149,2024-01-01 11:10:00,Watch Video,In Progress
+5,146,2024-01-01 13:07:00,Read Material,Failure
+5,198,2024-01-01 13:34:00,Forum Discussion,Failure
+5,182,2024-01-01 14:08:00,Request Hint,Failure
+5,117,2024-01-01 14:42:00,Attempt Quiz,Success
+5,154,2024-01-01 15:22:00,Read Material,Completed
+5,92,2024-01-01 15:31:00,Attempt Quiz,Failure
+5,252,2024-01-01 17:37:00,Read Material,Completed
+5,83,2024-01-01 18:01:00,Submit Assignment,Success
+5,35,2024-01-01 18:49:00,Attempt Quiz,In Progress
+5,265,2024-01-01 19:45:00,Submit Assignment,Completed
+5,45,2024-01-01 19:59:00,Read Material,Success
+5,51,2024-01-01 20:36:00,Watch Video,Failure
+5,298,2024-01-01 23:39:00,Attempt Quiz,Failure
+5,170,2024-01-02 03:28:00,Submit Assignment,In Progress
+5,25,2024-01-02 04:22:00,Watch Video,Failure
+5,267,2024-01-02 04:23:00,Submit Assignment,In Progress
+5,8,2024-01-02 05:02:00,Request Hint,Failure
+5,156,2024-01-02 05:10:00,Submit Assignment,Completed
+5,91,2024-01-02 05:59:00,Attempt Quiz,In Progress
+6,159,2024-01-01 01:13:00,Watch Video,Success
+6,294,2024-01-01 03:00:00,Forum Discussion,Failure
+6,70,2024-01-01 06:11:00,Read Material,Failure
+6,73,2024-01-01 07:40:00,Attempt Quiz,Success
+6,3,2024-01-01 11:55:00,Forum Discussion,Completed
+6,30,2024-01-01 12:58:00,Watch Video,Completed
+6,259,2024-01-01 13:29:00,Attempt Quiz,Completed
+6,177,2024-01-01 14:54:00,Forum Discussion,Completed
+6,265,2024-01-01 16:46:00,Submit Assignment,Success
+6,248,2024-01-01 17:17:00,Request Hint,Failure
+6,247,2024-01-01 17:24:00,Request Hint,Success
+6,102,2024-01-01 17:58:00,Watch Video,In Progress
+6,268,2024-01-01 19:21:00,Attempt Quiz,Success
+6,146,2024-01-01 20:18:00,Read Material,Completed
+6,123,2024-01-02 00:31:00,Request Hint,Failure
+6,26,2024-01-02 04:21:00,Forum Discussion,In Progress
+6,8,2024-01-02 05:37:00,Forum Discussion,Completed
+6,164,2024-01-02 07:16:00,Read Material,Success
+6,241,2024-01-02 07:55:00,Attempt Quiz,Failure
+7,12,2024-01-01 00:46:00,Watch Video,In Progress
+7,10,2024-01-01 02:05:00,Watch Video,Success
+7,90,2024-01-01 04:45:00,Read Material,Success
+7,161,2024-01-01 05:34:00,Forum Discussion,Completed
+7,248,2024-01-01 06:59:00,Attempt Quiz,Failure
+7,129,2024-01-01 09:39:00,Forum Discussion,In Progress
+7,122,2024-01-01 11:01:00,Attempt Quiz,In Progress
+7,8,2024-01-01 16:12:00,Read Material,Completed
+7,218,2024-01-01 19:23:00,Attempt Quiz,Failure
+7,167,2024-01-01 21:21:00,Attempt Quiz,In Progress
+7,147,2024-01-01 22:43:00,Forum Discussion,Completed
+7,179,2024-01-01 23:16:00,Watch Video,Failure
+7,82,2024-01-01 23:18:00,Attempt Quiz,In Progress
+7,146,2024-01-02 02:20:00,Watch Video,Failure
+7,236,2024-01-02 02:23:00,Read Material,In Progress
+7,55,2024-01-02 05:58:00,Forum Discussion,In Progress
+7,280,2024-01-02 07:12:00,Read Material,Completed
+8,37,2024-01-01 01:04:00,Attempt Quiz,In Progress
+8,231,2024-01-01 01:53:00,Attempt Quiz,Completed
+8,28,2024-01-01 01:58:00,Attempt Quiz,Completed
+8,226,2024-01-01 05:33:00,Watch Video,Success
+8,291,2024-01-01 05:47:00,Request Hint,Failure
+8,288,2024-01-01 07:05:00,Submit Assignment,In Progress
+8,158,2024-01-01 07:35:00,Request Hint,Completed
+8,42,2024-01-01 09:33:00,Request Hint,Success
+8,236,2024-01-01 11:15:00,Attempt Quiz,Failure
+8,57,2024-01-01 12:33:00,Watch Video,In Progress
+8,71,2024-01-01 12:37:00,Forum Discussion,Failure
+8,98,2024-01-01 15:06:00,Read Material,Failure
+8,297,2024-01-01 15:54:00,Submit Assignment,Failure
+8,281,2024-01-01 16:41:00,Submit Assignment,Completed
+8,21,2024-01-01 17:32:00,Attempt Quiz,In Progress
+8,46,2024-01-01 19:58:00,Forum Discussion,In Progress
+8,99,2024-01-01 22:28:00,Read Material,Failure
+8,91,2024-01-01 22:45:00,Request Hint,In Progress
+8,12,2024-01-01 22:58:00,Forum Discussion,Completed
+8,56,2024-01-02 01:54:00,Watch Video,Failure
+8,104,2024-01-02 08:22:00,Submit Assignment,Success
+8,7,2024-01-02 09:13:00,Read Material,Success
+9,173,2024-01-01 00:55:00,Request Hint,Completed
+9,41,2024-01-01 01:50:00,Submit Assignment,Failure
+9,130,2024-01-01 02:31:00,Forum Discussion,Failure
+9,76,2024-01-01 03:20:00,Submit Assignment,In Progress
+9,263,2024-01-01 04:56:00,Watch Video,In Progress
+9,55,2024-01-01 06:46:00,Submit Assignment,Success
+9,68,2024-01-01 08:02:00,Request Hint,In Progress
+9,223,2024-01-01 10:24:00,Forum Discussion,Success
+9,172,2024-01-01 10:57:00,Forum Discussion,Completed
+9,268,2024-01-01 11:06:00,Watch Video,Success
+9,108,2024-01-01 17:10:00,Attempt Quiz,In Progress
+9,120,2024-01-01 18:14:00,Request Hint,Failure
+9,125,2024-01-01 18:29:00,Forum Discussion,Success
+9,259,2024-01-01 20:41:00,Forum Discussion,Failure
+9,188,2024-01-01 21:08:00,Forum Discussion,In Progress
+9,194,2024-01-01 23:43:00,Request Hint,In Progress
+9,65,2024-01-01 23:59:00,Request Hint,Failure
+9,13,2024-01-02 02:24:00,Forum Discussion,Completed
+9,52,2024-01-02 04:28:00,Read Material,In Progress
+9,62,2024-01-02 04:52:00,Read Material,Completed
+9,222,2024-01-02 04:58:00,Request Hint,In Progress
+9,271,2024-01-02 08:46:00,Submit Assignment,Failure
+10,178,2024-01-01 08:45:00,Attempt Quiz,Completed
+10,7,2024-01-01 08:51:00,Forum Discussion,In Progress
+10,277,2024-01-01 09:48:00,Read Material,Success
+10,183,2024-01-01 13:04:00,Attempt Quiz,Completed
+10,289,2024-01-01 14:45:00,Submit Assignment,In Progress
+10,247,2024-01-01 16:35:00,Attempt Quiz,Success
+10,150,2024-01-01 18:00:00,Attempt Quiz,Failure
+10,275,2024-01-01 18:03:00,Watch Video,Failure
+10,233,2024-01-01 19:44:00,Forum Discussion,Success
+10,152,2024-01-01 22:33:00,Watch Video,Failure
+10,188,2024-01-02 00:38:00,Forum Discussion,Success
+10,21,2024-01-02 02:12:00,Forum Discussion,Success
+10,92,2024-01-02 03:24:00,Submit Assignment,Completed
+10,10,2024-01-02 06:05:00,Forum Discussion,Failure
+10,133,2024-01-02 06:57:00,Read Material,Failure
+11,231,2024-01-01 01:56:00,Watch Video,Failure
+11,153,2024-01-01 04:10:00,Submit Assignment,Completed
+11,156,2024-01-01 04:35:00,Attempt Quiz,Failure
+11,161,2024-01-01 13:13:00,Request Hint,Failure
+11,30,2024-01-01 17:53:00,Forum Discussion,Completed
+11,64,2024-01-01 18:42:00,Read Material,Success
+11,215,2024-01-01 20:15:00,Submit Assignment,In Progress
+11,296,2024-01-01 20:48:00,Attempt Quiz,Failure
+11,208,2024-01-01 23:33:00,Request Hint,Failure
+11,21,2024-01-02 00:56:00,Watch Video,Completed
+11,275,2024-01-02 00:58:00,Submit Assignment,Success
+11,226,2024-01-02 04:01:00,Forum Discussion,Success
+11,61,2024-01-02 04:47:00,Submit Assignment,Success
+11,235,2024-01-02 05:03:00,Read Material,Failure
+11,40,2024-01-02 07:14:00,Watch Video,In Progress
+11,189,2024-01-02 08:55:00,Forum Discussion,Success
+11,148,2024-01-02 09:08:00,Attempt Quiz,Failure
+11,206,2024-01-02 09:14:00,Watch Video,Completed
+12,270,2024-01-01 02:08:00,Submit Assignment,In Progress
+12,176,2024-01-01 03:36:00,Read Material,Completed
+12,241,2024-01-01 04:52:00,Forum Discussion,Success
+12,173,2024-01-01 08:03:00,Watch Video,Failure
+12,13,2024-01-01 09:07:00,Forum Discussion,In Progress
+12,188,2024-01-01 09:15:00,Forum Discussion,Success
+12,252,2024-01-01 09:25:00,Watch Video,Completed
+12,87,2024-01-01 10:03:00,Request Hint,Completed
+12,138,2024-01-01 10:20:00,Submit Assignment,Success
+12,190,2024-01-01 10:34:00,Attempt Quiz,Completed
+12,227,2024-01-01 12:25:00,Attempt Quiz,In Progress
+12,220,2024-01-01 14:05:00,Submit Assignment,Completed
+12,270,2024-01-01 15:32:00,Submit Assignment,In Progress
+12,91,2024-01-01 17:45:00,Request Hint,Failure
+12,84,2024-01-01 20:24:00,Forum Discussion,Failure
+12,171,2024-01-01 23:37:00,Watch Video,Success
+12,162,2024-01-02 00:35:00,Watch Video,In Progress
+12,264,2024-01-02 01:38:00,Watch Video,Completed
+12,141,2024-01-02 01:49:00,Watch Video,Success
+12,101,2024-01-02 02:05:00,Read Material,In Progress
+12,264,2024-01-02 03:50:00,Request Hint,Completed
+12,117,2024-01-02 06:17:00,Submit Assignment,In Progress
+12,199,2024-01-02 06:54:00,Submit Assignment,Success
+12,111,2024-01-02 08:10:00,Request Hint,In Progress
+13,216,2024-01-01 02:49:00,Read Material,Completed
+13,118,2024-01-01 06:57:00,Forum Discussion,Success
+13,281,2024-01-01 07:49:00,Request Hint,Success
+13,112,2024-01-01 09:24:00,Forum Discussion,In Progress
+13,109,2024-01-01 10:05:00,Submit Assignment,Completed
+13,28,2024-01-01 10:15:00,Read Material,Success
+13,222,2024-01-01 11:03:00,Attempt Quiz,Completed
+13,3,2024-01-01 11:37:00,Request Hint,Failure
+13,152,2024-01-01 12:55:00,Watch Video,Failure
+13,260,2024-01-01 16:31:00,Watch Video,In Progress
+13,173,2024-01-01 18:06:00,Attempt Quiz,In Progress
+13,277,2024-01-01 19:49:00,Watch Video,In Progress
+13,225,2024-01-01 20:26:00,Read Material,Success
+13,87,2024-01-01 21:59:00,Read Material,In Progress
+13,53,2024-01-02 02:58:00,Read Material,In Progress
+13,102,2024-01-02 03:09:00,Forum Discussion,Success
+13,17,2024-01-02 03:10:00,Forum Discussion,Success
+13,248,2024-01-02 04:41:00,Read Material,Completed
+13,137,2024-01-02 05:48:00,Forum Discussion,Success
+13,113,2024-01-02 06:21:00,Request Hint,Completed
+13,54,2024-01-02 07:31:00,Attempt Quiz,Success
+14,238,2024-01-01 00:54:00,Submit Assignment,In Progress
+14,228,2024-01-01 01:26:00,Forum Discussion,In Progress
+14,108,2024-01-01 02:29:00,Watch Video,In Progress
+14,69,2024-01-01 05:29:00,Watch Video,Success
+14,272,2024-01-01 07:07:00,Attempt Quiz,In Progress
+14,10,2024-01-01 10:48:00,Attempt Quiz,Failure
+14,223,2024-01-01 12:15:00,Submit Assignment,Completed
+14,84,2024-01-01 14:17:00,Read Material,Success
+14,104,2024-01-01 16:01:00,Request Hint,Failure
+14,40,2024-01-01 16:09:00,Read Material,Success
+14,100,2024-01-01 17:49:00,Watch Video,In Progress
+14,50,2024-01-01 18:43:00,Submit Assignment,In Progress
+14,38,2024-01-01 19:02:00,Request Hint,Completed
+14,216,2024-01-01 23:11:00,Forum Discussion,Completed
+14,67,2024-01-01 23:58:00,Submit Assignment,Failure
+14,256,2024-01-02 02:21:00,Read Material,In Progress
+14,264,2024-01-02 02:38:00,Read Material,Success
+14,134,2024-01-02 03:34:00,Submit Assignment,Success
+14,15,2024-01-02 04:45:00,Read Material,Completed
+14,109,2024-01-02 07:03:00,Forum Discussion,Failure
+15,160,2024-01-01 00:02:00,Read Material,Completed
+15,251,2024-01-01 00:36:00,Forum Discussion,Completed
+15,295,2024-01-01 01:29:00,Attempt Quiz,Completed
+15,87,2024-01-01 01:45:00,Attempt Quiz,Success
+15,20,2024-01-01 02:33:00,Attempt Quiz,Success
+15,12,2024-01-01 02:45:00,Attempt Quiz,Failure
+15,142,2024-01-01 07:10:00,Submit Assignment,In Progress
+15,82,2024-01-01 07:31:00,Watch Video,Failure
+15,70,2024-01-01 12:16:00,Watch Video,Success
+15,246,2024-01-01 16:18:00,Watch Video,Completed
+15,286,2024-01-01 18:16:00,Request Hint,Success
+15,76,2024-01-01 19:09:00,Submit Assignment,Success
+15,241,2024-01-01 19:28:00,Submit Assignment,In Progress
+15,147,2024-01-01 19:56:00,Attempt Quiz,In Progress
+15,146,2024-01-01 21:03:00,Attempt Quiz,Completed
+15,24,2024-01-02 02:06:00,Forum Discussion,Failure
+15,118,2024-01-02 02:53:00,Request Hint,In Progress
+15,135,2024-01-02 03:46:00,Submit Assignment,Failure
+15,168,2024-01-02 07:33:00,Watch Video,Completed
+15,254,2024-01-02 08:03:00,Read Material,Success
+15,123,2024-01-02 08:12:00,Forum Discussion,Failure
+15,63,2024-01-02 08:38:00,Request Hint,Success
+16,12,2024-01-01 04:11:00,Attempt Quiz,Completed
+16,263,2024-01-01 04:46:00,Submit Assignment,Success
+16,161,2024-01-01 07:06:00,Attempt Quiz,Completed
+16,25,2024-01-01 07:48:00,Attempt Quiz,Completed
+16,146,2024-01-01 08:12:00,Forum Discussion,In Progress
+16,130,2024-01-01 08:22:00,Request Hint,Failure
+16,97,2024-01-01 08:35:00,Submit Assignment,Success
+16,183,2024-01-01 08:58:00,Watch Video,Success
+16,169,2024-01-01 10:31:00,Watch Video,In Progress
+16,269,2024-01-01 10:41:00,Watch Video,Completed
+16,111,2024-01-01 12:21:00,Forum Discussion,In Progress
+16,230,2024-01-01 12:28:00,Read Material,Failure
+16,66,2024-01-01 15:05:00,Request Hint,Completed
+16,165,2024-01-01 22:13:00,Read Material,Success
+16,183,2024-01-01 23:06:00,Submit Assignment,Success
+16,211,2024-01-02 02:13:00,Request Hint,Failure
+16,13,2024-01-02 03:01:00,Submit Assignment,Failure
+16,175,2024-01-02 03:22:00,Forum Discussion,In Progress
+17,265,2024-01-01 04:03:00,Forum Discussion,Success
+17,149,2024-01-01 05:36:00,Forum Discussion,Success
+17,36,2024-01-01 06:05:00,Forum Discussion,Completed
+17,158,2024-01-01 06:44:00,Attempt Quiz,Completed
+17,164,2024-01-01 07:52:00,Watch Video,In Progress
+17,277,2024-01-01 10:10:00,Submit Assignment,Completed
+17,113,2024-01-01 11:00:00,Submit Assignment,Completed
+17,256,2024-01-01 11:18:00,Watch Video,Success
+17,162,2024-01-01 12:48:00,Attempt Quiz,Completed
+17,70,2024-01-01 13:43:00,Watch Video,Failure
+17,70,2024-01-01 14:12:00,Read Material,Completed
+17,152,2024-01-01 14:47:00,Watch Video,Completed
+17,61,2024-01-01 14:49:00,Submit Assignment,Success
+17,63,2024-01-01 16:25:00,Read Material,Failure
+17,162,2024-01-01 16:30:00,Attempt Quiz,Completed
+17,275,2024-01-01 18:13:00,Watch Video,In Progress
+17,162,2024-01-01 19:12:00,Submit Assignment,Completed
+17,56,2024-01-01 21:26:00,Watch Video,In Progress
+17,260,2024-01-02 00:21:00,Submit Assignment,In Progress
+17,184,2024-01-02 00:40:00,Submit Assignment,Completed
+17,248,2024-01-02 01:24:00,Attempt Quiz,Success
+17,107,2024-01-02 01:44:00,Request Hint,Failure
+17,293,2024-01-02 02:15:00,Request Hint,Failure
+17,216,2024-01-02 02:37:00,Watch Video,Success
+17,242,2024-01-02 04:36:00,Watch Video,Success
+17,17,2024-01-02 06:24:00,Attempt Quiz,Failure
+17,188,2024-01-02 06:53:00,Request Hint,In Progress
+17,40,2024-01-02 06:56:00,Forum Discussion,Completed
+17,81,2024-01-02 08:19:00,Watch Video,Failure
+17,183,2024-01-02 08:43:00,Forum Discussion,In Progress
+17,210,2024-01-02 09:19:00,Forum Discussion,In Progress
+18,243,2024-01-01 00:50:00,Read Material,Success
+18,152,2024-01-01 01:19:00,Attempt Quiz,Failure
+18,293,2024-01-01 05:17:00,Forum Discussion,Failure
+18,130,2024-01-01 06:28:00,Submit Assignment,In Progress
+18,278,2024-01-01 10:55:00,Attempt Quiz,Failure
+18,20,2024-01-01 12:12:00,Attempt Quiz,Failure
+18,251,2024-01-01 13:10:00,Forum Discussion,Failure
+18,107,2024-01-01 16:15:00,Request Hint,Success
+18,283,2024-01-01 16:37:00,Read Material,Completed
+18,26,2024-01-01 18:58:00,Attempt Quiz,Success
+18,109,2024-01-01 22:16:00,Forum Discussion,Success
+18,35,2024-01-02 00:14:00,Attempt Quiz,Success
+18,237,2024-01-02 02:35:00,Read Material,Failure
+18,268,2024-01-02 03:11:00,Submit Assignment,Completed
+18,33,2024-01-02 03:37:00,Submit Assignment,In Progress
+18,272,2024-01-02 05:13:00,Submit Assignment,Completed
+18,153,2024-01-02 08:11:00,Request Hint,In Progress
+18,13,2024-01-02 09:01:00,Forum Discussion,Failure
+19,213,2024-01-01 03:51:00,Attempt Quiz,In Progress
+19,281,2024-01-01 04:22:00,Forum Discussion,Success
+19,51,2024-01-01 04:25:00,Submit Assignment,Completed
+19,173,2024-01-01 04:58:00,Watch Video,Failure
+19,102,2024-01-01 06:00:00,Request Hint,Success
+19,289,2024-01-01 07:51:00,Attempt Quiz,Failure
+19,270,2024-01-01 07:54:00,Attempt Quiz,Completed
+19,155,2024-01-01 08:52:00,Request Hint,In Progress
+19,261,2024-01-01 10:17:00,Request Hint,Failure
+19,111,2024-01-01 10:22:00,Forum Discussion,Completed
+19,29,2024-01-01 11:26:00,Read Material,Success
+19,278,2024-01-01 11:33:00,Attempt Quiz,Completed
+19,209,2024-01-01 12:09:00,Watch Video,Success
+19,277,2024-01-01 15:20:00,Request Hint,In Progress
+19,225,2024-01-01 17:41:00,Forum Discussion,Success
+19,42,2024-01-01 22:15:00,Submit Assignment,Success
+19,260,2024-01-01 23:22:00,Watch Video,Success
+19,163,2024-01-01 23:23:00,Attempt Quiz,In Progress
+19,157,2024-01-02 01:39:00,Watch Video,Failure
+19,39,2024-01-02 05:39:00,Watch Video,Completed
+19,272,2024-01-02 07:56:00,Attempt Quiz,Completed
+20,107,2024-01-01 04:19:00,Watch Video,Completed
+20,271,2024-01-01 04:26:00,Submit Assignment,Completed
+20,277,2024-01-01 05:02:00,Submit Assignment,In Progress
+20,108,2024-01-01 05:32:00,Request Hint,In Progress
+20,84,2024-01-01 07:03:00,Read Material,Completed
+20,19,2024-01-01 11:40:00,Watch Video,Completed
+20,14,2024-01-01 12:10:00,Attempt Quiz,Completed
+20,219,2024-01-01 17:44:00,Read Material,Completed
+20,158,2024-01-01 20:14:00,Forum Discussion,Failure
+20,125,2024-01-01 21:50:00,Submit Assignment,Success
+20,287,2024-01-01 23:32:00,Request Hint,In Progress
+20,54,2024-01-01 23:38:00,Watch Video,In Progress
+20,178,2024-01-02 01:12:00,Watch Video,Failure
+20,96,2024-01-02 04:11:00,Forum Discussion,Success
+20,216,2024-01-02 04:30:00,Request Hint,Completed
+20,139,2024-01-02 06:47:00,Forum Discussion,In Progress
+20,245,2024-01-02 08:36:00,Watch Video,Success
+21,92,2024-01-01 00:05:00,Forum Discussion,Completed
+21,143,2024-01-01 00:23:00,Watch Video,Completed
+21,87,2024-01-01 00:47:00,Forum Discussion,Completed
+21,175,2024-01-01 05:30:00,Submit Assignment,In Progress
+21,42,2024-01-01 05:51:00,Read Material,Completed
+21,242,2024-01-01 09:46:00,Watch Video,Completed
+21,13,2024-01-01 12:03:00,Submit Assignment,Success
+21,138,2024-01-01 13:27:00,Forum Discussion,Failure
+21,20,2024-01-01 15:21:00,Submit Assignment,In Progress
+21,79,2024-01-01 15:28:00,Read Material,In Progress
+21,248,2024-01-01 16:58:00,Watch Video,Completed
+21,235,2024-01-01 20:52:00,Request Hint,In Progress
+21,99,2024-01-01 21:04:00,Request Hint,Success
+21,269,2024-01-02 00:55:00,Request Hint,Failure
+21,186,2024-01-02 01:56:00,Watch Video,Completed
+21,39,2024-01-02 07:50:00,Read Material,Completed
+21,283,2024-01-02 09:00:00,Request Hint,Success
+22,77,2024-01-01 00:14:00,Submit Assignment,Completed
+22,262,2024-01-01 00:27:00,Submit Assignment,In Progress
+22,138,2024-01-01 05:42:00,Watch Video,Failure
+22,143,2024-01-01 07:23:00,Read Material,In Progress
+22,60,2024-01-01 08:17:00,Submit Assignment,Completed
+22,213,2024-01-01 15:27:00,Submit Assignment,In Progress
+22,156,2024-01-01 16:57:00,Attempt Quiz,Completed
+22,62,2024-01-01 18:37:00,Watch Video,Completed
+22,67,2024-01-01 21:41:00,Request Hint,Completed
+22,37,2024-01-02 00:04:00,Submit Assignment,Failure
+22,54,2024-01-02 01:07:00,Request Hint,Failure
+22,197,2024-01-02 06:45:00,Forum Discussion,In Progress
+22,154,2024-01-02 06:55:00,Submit Assignment,In Progress
+22,279,2024-01-02 06:59:00,Forum Discussion,Success
+22,30,2024-01-02 07:42:00,Attempt Quiz,Failure
+23,257,2024-01-01 02:12:00,Submit Assignment,Success
+23,206,2024-01-01 02:44:00,Watch Video,Success
+23,158,2024-01-01 04:40:00,Request Hint,Completed
+23,300,2024-01-01 06:39:00,Read Material,Success
+23,79,2024-01-01 08:01:00,Request Hint,Completed
+23,231,2024-01-01 08:44:00,Forum Discussion,In Progress
+23,87,2024-01-01 09:59:00,Submit Assignment,Failure
+23,152,2024-01-01 10:06:00,Attempt Quiz,In Progress
+23,258,2024-01-01 10:40:00,Submit Assignment,Success
+23,35,2024-01-01 13:37:00,Attempt Quiz,Failure
+23,228,2024-01-01 14:14:00,Watch Video,In Progress
+23,5,2024-01-01 15:00:00,Read Material,Completed
+23,176,2024-01-01 16:14:00,Read Material,Failure
+23,110,2024-01-01 18:02:00,Attempt Quiz,Completed
+23,28,2024-01-01 19:07:00,Watch Video,Completed
+23,127,2024-01-01 20:20:00,Attempt Quiz,Failure
+23,258,2024-01-01 20:49:00,Read Material,In Progress
+23,175,2024-01-01 23:20:00,Read Material,In Progress
+23,298,2024-01-02 02:16:00,Read Material,Completed
+23,141,2024-01-02 06:03:00,Request Hint,In Progress
+24,289,2024-01-01 00:12:00,Forum Discussion,In Progress
+24,21,2024-01-01 01:39:00,Attempt Quiz,Success
+24,53,2024-01-01 03:26:00,Attempt Quiz,In Progress
+24,85,2024-01-01 04:05:00,Watch Video,Success
+24,214,2024-01-01 05:03:00,Submit Assignment,Success
+24,9,2024-01-01 05:06:00,Attempt Quiz,Failure
+24,49,2024-01-01 06:14:00,Watch Video,Failure
+24,286,2024-01-01 06:35:00,Submit Assignment,Completed
+24,104,2024-01-01 06:56:00,Read Material,Success
+24,62,2024-01-01 08:59:00,Watch Video,Success
+24,65,2024-01-01 09:06:00,Forum Discussion,Failure
+24,203,2024-01-01 09:50:00,Attempt Quiz,Success
+24,69,2024-01-01 09:58:00,Forum Discussion,Completed
+24,260,2024-01-01 12:31:00,Request Hint,Success
+24,150,2024-01-01 17:08:00,Forum Discussion,Success
+24,272,2024-01-01 17:15:00,Read Material,Completed
+24,265,2024-01-01 18:17:00,Read Material,Success
+24,157,2024-01-01 21:31:00,Read Material,In Progress
+24,57,2024-01-01 23:49:00,Submit Assignment,Failure
+24,10,2024-01-02 01:06:00,Submit Assignment,Failure
+24,292,2024-01-02 02:40:00,Request Hint,Failure
+24,48,2024-01-02 08:09:00,Watch Video,Completed
+24,141,2024-01-02 08:33:00,Read Material,Success
+25,49,2024-01-01 05:15:00,Request Hint,Success
+25,215,2024-01-01 06:29:00,Submit Assignment,In Progress
+25,115,2024-01-01 06:55:00,Submit Assignment,Failure
+25,190,2024-01-01 07:19:00,Watch Video,Success
+25,255,2024-01-01 10:35:00,Watch Video,In Progress
+25,144,2024-01-01 11:51:00,Request Hint,Success
+25,173,2024-01-01 13:02:00,Submit Assignment,Failure
+25,86,2024-01-01 15:10:00,Watch Video,Success
+25,269,2024-01-01 16:29:00,Read Material,Success
+25,223,2024-01-01 16:33:00,Attempt Quiz,Success
+25,194,2024-01-01 19:11:00,Attempt Quiz,Completed
+25,75,2024-01-01 21:16:00,Submit Assignment,Completed
+25,202,2024-01-01 21:32:00,Attempt Quiz,In Progress
+25,37,2024-01-02 00:02:00,Forum Discussion,Completed
+25,72,2024-01-02 00:23:00,Read Material,Success
+25,241,2024-01-02 01:30:00,Read Material,Failure
+25,213,2024-01-02 02:02:00,Attempt Quiz,Failure
+25,44,2024-01-02 02:57:00,Watch Video,Success
+25,283,2024-01-02 03:26:00,Read Material,Failure
+25,244,2024-01-02 03:40:00,Attempt Quiz,In Progress
+25,218,2024-01-02 04:05:00,Attempt Quiz,In Progress
+25,210,2024-01-02 04:54:00,Request Hint,Failure
+25,93,2024-01-02 05:01:00,Submit Assignment,Success
+25,273,2024-01-02 08:08:00,Attempt Quiz,Failure
+25,49,2024-01-02 08:39:00,Forum Discussion,Failure
+26,225,2024-01-01 01:40:00,Watch Video,In Progress
+26,30,2024-01-01 06:52:00,Request Hint,Completed
+26,266,2024-01-01 08:21:00,Attempt Quiz,Completed
+26,105,2024-01-01 09:35:00,Request Hint,In Progress
+26,260,2024-01-01 13:15:00,Request Hint,In Progress
+26,36,2024-01-01 14:00:00,Request Hint,Success
+26,42,2024-01-01 15:42:00,Submit Assignment,In Progress
+26,268,2024-01-01 15:51:00,Forum Discussion,Completed
+26,114,2024-01-01 16:08:00,Forum Discussion,Completed
+26,211,2024-01-01 16:48:00,Attempt Quiz,Completed
+26,227,2024-01-01 17:33:00,Request Hint,In Progress
+26,210,2024-01-01 17:39:00,Watch Video,Completed
+26,8,2024-01-01 18:52:00,Attempt Quiz,Success
+26,250,2024-01-01 20:10:00,Attempt Quiz,In Progress
+26,172,2024-01-01 21:12:00,Attempt Quiz,In Progress
+26,75,2024-01-01 21:42:00,Watch Video,In Progress
+26,232,2024-01-02 00:06:00,Request Hint,Completed
+26,111,2024-01-02 00:41:00,Request Hint,Failure
+26,233,2024-01-02 00:53:00,Request Hint,Success
+26,59,2024-01-02 01:19:00,Submit Assignment,Completed
+26,273,2024-01-02 02:08:00,Read Material,In Progress
+26,281,2024-01-02 02:09:00,Watch Video,In Progress
+26,101,2024-01-02 02:17:00,Submit Assignment,Success
+26,116,2024-01-02 07:23:00,Read Material,Success
+27,251,2024-01-01 02:30:00,Attempt Quiz,Completed
+27,119,2024-01-01 03:13:00,Forum Discussion,Completed
+27,232,2024-01-01 03:19:00,Attempt Quiz,Completed
+27,263,2024-01-01 05:48:00,Attempt Quiz,Success
+27,85,2024-01-01 05:49:00,Request Hint,Completed
+27,287,2024-01-01 06:41:00,Read Material,In Progress
+27,18,2024-01-01 11:08:00,Forum Discussion,Failure
+27,254,2024-01-01 12:46:00,Forum Discussion,Completed
+27,47,2024-01-01 13:20:00,Request Hint,Failure
+27,138,2024-01-01 15:14:00,Submit Assignment,Success
+27,44,2024-01-01 15:40:00,Request Hint,Success
+27,177,2024-01-01 19:32:00,Forum Discussion,Success
+27,43,2024-01-01 19:38:00,Submit Assignment,In Progress
+27,268,2024-01-01 20:06:00,Read Material,Failure
+27,153,2024-01-01 20:12:00,Forum Discussion,Completed
+27,45,2024-01-02 00:28:00,Watch Video,Failure
+27,216,2024-01-02 05:55:00,Attempt Quiz,Completed
+27,206,2024-01-02 06:23:00,Request Hint,Completed
+27,25,2024-01-02 07:44:00,Watch Video,Success
+27,241,2024-01-02 08:14:00,Watch Video,Success
+27,96,2024-01-02 08:24:00,Forum Discussion,Completed
+28,287,2024-01-01 02:04:00,Request Hint,Completed
+28,285,2024-01-01 02:54:00,Submit Assignment,Completed
+28,151,2024-01-01 03:01:00,Submit Assignment,Failure
+28,126,2024-01-01 03:02:00,Attempt Quiz,Failure
+28,241,2024-01-01 05:54:00,Attempt Quiz,Failure
+28,256,2024-01-01 10:26:00,Submit Assignment,In Progress
+28,188,2024-01-01 12:32:00,Submit Assignment,Completed
+28,3,2024-01-01 12:41:00,Submit Assignment,Failure
+28,42,2024-01-01 16:03:00,Request Hint,In Progress
+28,137,2024-01-01 16:21:00,Read Material,Completed
+28,45,2024-01-01 21:43:00,Attempt Quiz,Completed
+28,90,2024-01-02 05:19:00,Submit Assignment,Success
+28,105,2024-01-02 06:39:00,Forum Discussion,Failure
+29,240,2024-01-01 01:44:00,Read Material,Failure
+29,181,2024-01-01 02:47:00,Read Material,Completed
+29,56,2024-01-01 08:26:00,Submit Assignment,Success
+29,52,2024-01-01 09:23:00,Request Hint,Failure
+29,29,2024-01-01 09:43:00,Submit Assignment,In Progress
+29,126,2024-01-01 11:11:00,Request Hint,In Progress
+29,211,2024-01-01 12:54:00,Watch Video,Success
+29,196,2024-01-01 14:43:00,Request Hint,Completed
+29,142,2024-01-01 19:29:00,Attempt Quiz,Success
+29,189,2024-01-01 19:34:00,Watch Video,Completed
+29,127,2024-01-01 19:57:00,Submit Assignment,In Progress
+29,1,2024-01-01 20:00:00,Read Material,Failure
+29,155,2024-01-01 20:43:00,Submit Assignment,In Progress
+29,31,2024-01-01 21:39:00,Submit Assignment,Failure
+29,109,2024-01-01 22:08:00,Attempt Quiz,Completed
+29,252,2024-01-01 22:29:00,Request Hint,In Progress
+29,116,2024-01-01 23:25:00,Attempt Quiz,In Progress
+29,188,2024-01-02 00:08:00,Submit Assignment,In Progress
+29,158,2024-01-02 00:54:00,Read Material,Failure
+29,188,2024-01-02 03:17:00,Forum Discussion,In Progress
+29,294,2024-01-02 04:51:00,Attempt Quiz,Success
+29,147,2024-01-02 07:06:00,Forum Discussion,Completed
+29,283,2024-01-02 07:13:00,Read Material,In Progress
+29,181,2024-01-02 07:27:00,Watch Video,Success
+29,103,2024-01-02 07:34:00,Request Hint,In Progress
+29,85,2024-01-02 07:35:00,Read Material,Success
+30,194,2024-01-01 00:18:00,Submit Assignment,Failure
+30,129,2024-01-01 03:05:00,Submit Assignment,In Progress
+30,78,2024-01-01 05:43:00,Attempt Quiz,Completed
+30,125,2024-01-01 05:52:00,Watch Video,Success
+30,164,2024-01-01 06:08:00,Attempt Quiz,Success
+30,253,2024-01-01 07:50:00,Request Hint,Completed
+30,148,2024-01-01 10:09:00,Attempt Quiz,In Progress
+30,183,2024-01-01 13:06:00,Forum Discussion,In Progress
+30,148,2024-01-01 14:28:00,Request Hint,In Progress
+30,218,2024-01-01 14:39:00,Request Hint,Success
+30,149,2024-01-01 18:45:00,Watch Video,Success
+30,126,2024-01-01 22:07:00,Attempt Quiz,Completed
+30,69,2024-01-01 22:12:00,Read Material,Failure
+30,19,2024-01-01 23:52:00,Submit Assignment,Success
+30,111,2024-01-02 03:08:00,Watch Video,Success
+30,186,2024-01-02 03:25:00,Request Hint,Success
+30,224,2024-01-02 03:35:00,Attempt Quiz,In Progress
+30,248,2024-01-02 06:08:00,Attempt Quiz,Failure
+30,58,2024-01-02 06:33:00,Watch Video,Completed
+31,146,2024-01-01 04:41:00,Request Hint,Failure
+31,258,2024-01-01 11:25:00,Submit Assignment,Success
+31,211,2024-01-01 12:17:00,Forum Discussion,Success
+31,271,2024-01-01 17:12:00,Request Hint,Failure
+31,59,2024-01-01 19:50:00,Forum Discussion,In Progress
+31,28,2024-01-01 20:40:00,Read Material,In Progress
+31,83,2024-01-02 00:30:00,Forum Discussion,Failure
+31,263,2024-01-02 02:39:00,Watch Video,Success
+31,155,2024-01-02 06:02:00,Read Material,Failure
+31,155,2024-01-02 06:10:00,Submit Assignment,Failure
+32,251,2024-01-01 02:50:00,Read Material,Success
+32,220,2024-01-01 03:29:00,Forum Discussion,Success
+32,143,2024-01-01 03:56:00,Watch Video,Completed
+32,224,2024-01-01 03:58:00,Attempt Quiz,Failure
+32,84,2024-01-01 04:55:00,Forum Discussion,Completed
+32,67,2024-01-01 06:24:00,Submit Assignment,Success
+32,116,2024-01-01 06:36:00,Read Material,In Progress
+32,237,2024-01-01 07:14:00,Forum Discussion,Completed
+32,79,2024-01-01 09:03:00,Watch Video,Failure
+32,231,2024-01-01 11:59:00,Forum Discussion,Failure
+32,174,2024-01-01 13:54:00,Request Hint,Failure
+32,192,2024-01-01 15:16:00,Watch Video,Success
+32,276,2024-01-01 19:03:00,Read Material,In Progress
+32,59,2024-01-01 22:06:00,Watch Video,Success
+32,249,2024-01-01 22:32:00,Read Material,Completed
+32,101,2024-01-01 22:41:00,Submit Assignment,Failure
+32,236,2024-01-01 23:04:00,Attempt Quiz,Failure
+32,201,2024-01-02 02:11:00,Forum Discussion,Success
+32,182,2024-01-02 03:12:00,Watch Video,Completed
+32,5,2024-01-02 04:39:00,Forum Discussion,Failure
+32,228,2024-01-02 06:06:00,Forum Discussion,Success
+32,24,2024-01-02 07:18:00,Watch Video,Success
+32,3,2024-01-02 07:37:00,Watch Video,Failure
+32,89,2024-01-02 09:07:00,Watch Video,Completed
+33,106,2024-01-01 00:24:00,Read Material,Success
+33,229,2024-01-01 02:01:00,Submit Assignment,Failure
+33,93,2024-01-01 02:10:00,Read Material,In Progress
+33,290,2024-01-01 04:30:00,Submit Assignment,In Progress
+33,26,2024-01-01 05:05:00,Forum Discussion,Success
+33,146,2024-01-01 05:26:00,Submit Assignment,Completed
+33,242,2024-01-01 05:28:00,Submit Assignment,In Progress
+33,150,2024-01-01 05:37:00,Read Material,In Progress
+33,58,2024-01-01 06:26:00,Watch Video,Failure
+33,121,2024-01-01 06:45:00,Submit Assignment,Completed
+33,221,2024-01-01 08:42:00,Submit Assignment,Success
+33,213,2024-01-01 09:10:00,Forum Discussion,Failure
+33,181,2024-01-01 09:11:00,Attempt Quiz,Success
+33,183,2024-01-01 09:18:00,Submit Assignment,Completed
+33,129,2024-01-01 11:53:00,Request Hint,Success
+33,82,2024-01-01 12:50:00,Attempt Quiz,Success
+33,116,2024-01-01 13:08:00,Request Hint,Failure
+33,75,2024-01-01 13:23:00,Forum Discussion,Success
+33,286,2024-01-01 16:55:00,Read Material,Success
+33,154,2024-01-01 17:57:00,Request Hint,Failure
+33,291,2024-01-01 19:30:00,Submit Assignment,Completed
+33,295,2024-01-01 19:40:00,Request Hint,In Progress
+33,116,2024-01-01 21:37:00,Watch Video,Completed
+33,92,2024-01-01 23:19:00,Attempt Quiz,Success
+33,160,2024-01-02 01:10:00,Watch Video,In Progress
+33,46,2024-01-02 03:00:00,Watch Video,In Progress
+33,141,2024-01-02 05:36:00,Request Hint,Failure
+33,189,2024-01-02 07:15:00,Watch Video,Completed
+33,2,2024-01-02 09:11:00,Watch Video,In Progress
+34,96,2024-01-01 01:22:00,Forum Discussion,Failure
+34,80,2024-01-01 02:09:00,Request Hint,Completed
+34,96,2024-01-01 08:07:00,Read Material,Failure
+34,191,2024-01-01 08:48:00,Attempt Quiz,Completed
+34,120,2024-01-01 09:38:00,Forum Discussion,Completed
+34,188,2024-01-01 13:55:00,Read Material,Completed
+34,213,2024-01-01 14:01:00,Watch Video,Completed
+34,86,2024-01-01 14:53:00,Forum Discussion,Success
+34,284,2024-01-01 15:35:00,Watch Video,Success
+34,196,2024-01-01 16:40:00,Submit Assignment,In Progress
+34,110,2024-01-01 18:30:00,Submit Assignment,Success
+34,7,2024-01-01 21:24:00,Read Material,Completed
+34,165,2024-01-01 22:36:00,Read Material,Failure
+34,70,2024-01-01 22:59:00,Attempt Quiz,Failure
+34,290,2024-01-02 00:20:00,Request Hint,Failure
+34,163,2024-01-02 03:07:00,Submit Assignment,In Progress
+34,9,2024-01-02 08:04:00,Request Hint,In Progress
+35,131,2024-01-01 01:06:00,Request Hint,In Progress
+35,66,2024-01-01 01:59:00,Forum Discussion,Failure
+35,163,2024-01-01 02:00:00,Attempt Quiz,In Progress
+35,121,2024-01-01 02:20:00,Request Hint,Success
+35,19,2024-01-01 05:21:00,Submit Assignment,Completed
+35,288,2024-01-01 06:02:00,Submit Assignment,In Progress
+35,242,2024-01-01 09:09:00,Attempt Quiz,Completed
+35,233,2024-01-01 09:29:00,Request Hint,Failure
+35,183,2024-01-01 10:51:00,Submit Assignment,Failure
+35,76,2024-01-01 12:57:00,Request Hint,Completed
+35,89,2024-01-01 18:19:00,Read Material,Success
+35,127,2024-01-01 18:33:00,Read Material,In Progress
+35,276,2024-01-01 18:46:00,Submit Assignment,Success
+35,63,2024-01-01 21:14:00,Forum Discussion,Failure
+35,17,2024-01-01 23:00:00,Request Hint,In Progress
+35,274,2024-01-02 01:32:00,Submit Assignment,Failure
+35,57,2024-01-02 04:32:00,Forum Discussion,Failure
+35,82,2024-01-02 06:30:00,Forum Discussion,In Progress
+35,10,2024-01-02 08:06:00,Forum Discussion,In Progress
+36,35,2024-01-01 01:09:00,Watch Video,In Progress
+36,242,2024-01-01 02:48:00,Attempt Quiz,In Progress
+36,124,2024-01-01 04:21:00,Read Material,Success
+36,121,2024-01-01 05:09:00,Forum Discussion,Failure
+36,286,2024-01-01 07:01:00,Attempt Quiz,Failure
+36,97,2024-01-01 09:44:00,Request Hint,Failure
+36,232,2024-01-01 09:47:00,Forum Discussion,Success
+36,200,2024-01-01 09:55:00,Watch Video,In Progress
+36,285,2024-01-01 11:23:00,Submit Assignment,In Progress
+36,54,2024-01-01 12:07:00,Request Hint,Failure
+36,273,2024-01-01 12:35:00,Read Material,In Progress
+36,74,2024-01-01 15:52:00,Forum Discussion,In Progress
+36,212,2024-01-01 17:14:00,Watch Video,Failure
+36,141,2024-01-01 19:33:00,Request Hint,Failure
+36,90,2024-01-01 20:08:00,Submit Assignment,In Progress
+36,103,2024-01-01 20:09:00,Forum Discussion,Failure
+36,62,2024-01-01 20:54:00,Attempt Quiz,Success
+36,48,2024-01-01 23:24:00,Submit Assignment,In Progress
+36,295,2024-01-02 00:52:00,Read Material,Success
+36,281,2024-01-02 00:59:00,Request Hint,Failure
+36,14,2024-01-02 01:11:00,Read Material,Success
+36,103,2024-01-02 07:08:00,Watch Video,Failure
+37,264,2024-01-01 02:15:00,Read Material,In Progress
+37,1,2024-01-01 03:22:00,Attempt Quiz,In Progress
+37,36,2024-01-01 04:54:00,Request Hint,Success
+37,269,2024-01-01 06:13:00,Watch Video,Failure
+37,200,2024-01-01 10:02:00,Request Hint,Completed
+37,238,2024-01-01 11:12:00,Forum Discussion,Success
+37,49,2024-01-01 13:39:00,Request Hint,Completed
+37,147,2024-01-01 17:52:00,Forum Discussion,Success
+37,201,2024-01-01 18:48:00,Read Material,Failure
+37,118,2024-01-01 20:37:00,Watch Video,Completed
+37,228,2024-01-01 23:08:00,Forum Discussion,Completed
+37,126,2024-01-01 23:40:00,Attempt Quiz,Failure
+37,127,2024-01-02 00:11:00,Request Hint,In Progress
+37,75,2024-01-02 00:22:00,Request Hint,In Progress
+37,65,2024-01-02 02:46:00,Read Material,Completed
+37,7,2024-01-02 03:39:00,Submit Assignment,Failure
+37,217,2024-01-02 03:52:00,Read Material,Success
+37,252,2024-01-02 05:15:00,Read Material,Failure
+37,221,2024-01-02 06:43:00,Request Hint,Failure
+38,166,2024-01-01 00:19:00,Forum Discussion,Success
+38,3,2024-01-01 04:04:00,Attempt Quiz,Success
+38,125,2024-01-01 05:10:00,Read Material,Completed
+38,77,2024-01-01 05:44:00,Forum Discussion,Failure
+38,135,2024-01-01 11:13:00,Read Material,In Progress
+38,261,2024-01-01 11:54:00,Forum Discussion,Failure
+38,178,2024-01-01 14:21:00,Read Material,Completed
+38,127,2024-01-01 14:24:00,Forum Discussion,Failure
+38,82,2024-01-01 14:35:00,Submit Assignment,In Progress
+38,101,2024-01-01 16:16:00,Attempt Quiz,Success
+38,35,2024-01-01 17:51:00,Watch Video,Completed
+38,161,2024-01-01 18:18:00,Forum Discussion,In Progress
+38,179,2024-01-01 19:05:00,Submit Assignment,In Progress
+38,49,2024-01-01 19:35:00,Forum Discussion,Success
+38,17,2024-01-01 19:48:00,Read Material,In Progress
+38,175,2024-01-01 20:17:00,Submit Assignment,In Progress
+38,118,2024-01-01 21:19:00,Submit Assignment,Failure
+38,280,2024-01-01 22:23:00,Attempt Quiz,Completed
+38,277,2024-01-01 23:41:00,Attempt Quiz,Completed
+38,265,2024-01-02 00:19:00,Attempt Quiz,Completed
+38,50,2024-01-02 05:08:00,Forum Discussion,Success
+38,170,2024-01-02 05:56:00,Attempt Quiz,Completed
+38,255,2024-01-02 08:02:00,Watch Video,Completed
+38,100,2024-01-02 08:47:00,Read Material,Success
+38,43,2024-01-02 09:06:00,Attempt Quiz,Failure
+39,25,2024-01-01 00:49:00,Watch Video,Success
+39,269,2024-01-01 03:37:00,Read Material,Completed
+39,27,2024-01-01 04:32:00,Attempt Quiz,Completed
+39,136,2024-01-01 06:49:00,Request Hint,Completed
+39,273,2024-01-01 08:40:00,Watch Video,Failure
+39,160,2024-01-01 10:43:00,Read Material,Success
+39,11,2024-01-01 10:47:00,Attempt Quiz,Completed
+39,50,2024-01-01 11:29:00,Read Material,Failure
+39,171,2024-01-01 11:34:00,Read Material,In Progress
+39,108,2024-01-01 11:44:00,Forum Discussion,Success
+39,152,2024-01-01 13:59:00,Read Material,Failure
+39,16,2024-01-01 16:23:00,Forum Discussion,In Progress
+39,21,2024-01-01 19:01:00,Read Material,Failure
+39,153,2024-01-01 19:18:00,Watch Video,Failure
+39,31,2024-01-02 01:01:00,Attempt Quiz,Completed
+39,154,2024-01-02 01:31:00,Forum Discussion,Completed
+39,109,2024-01-02 02:33:00,Attempt Quiz,Success
+39,49,2024-01-02 02:52:00,Attempt Quiz,Completed
+39,171,2024-01-02 03:15:00,Watch Video,Completed
+39,132,2024-01-02 03:56:00,Submit Assignment,Completed
+39,247,2024-01-02 06:09:00,Attempt Quiz,Success
+39,94,2024-01-02 06:18:00,Forum Discussion,In Progress
+39,138,2024-01-02 07:32:00,Forum Discussion,Failure
+40,268,2024-01-01 01:34:00,Submit Assignment,Success
+40,52,2024-01-01 04:31:00,Watch Video,Completed
+40,256,2024-01-01 07:46:00,Forum Discussion,Success
+40,117,2024-01-01 09:19:00,Watch Video,Failure
+40,119,2024-01-01 11:04:00,Submit Assignment,Failure
+40,154,2024-01-01 16:42:00,Forum Discussion,Failure
+40,289,2024-01-01 17:13:00,Forum Discussion,Completed
+40,206,2024-01-01 18:07:00,Request Hint,Completed
+40,183,2024-01-01 18:35:00,Forum Discussion,In Progress
+40,93,2024-01-01 18:59:00,Watch Video,Completed
+40,2,2024-01-01 20:45:00,Attempt Quiz,In Progress
+40,107,2024-01-01 21:02:00,Read Material,Completed
+40,162,2024-01-01 22:14:00,Attempt Quiz,In Progress
+40,292,2024-01-02 00:00:00,Submit Assignment,Failure
+40,66,2024-01-02 00:33:00,Submit Assignment,In Progress
+40,53,2024-01-02 00:57:00,Watch Video,Success
+40,290,2024-01-02 01:23:00,Watch Video,In Progress
+40,252,2024-01-02 02:48:00,Request Hint,In Progress
+40,6,2024-01-02 05:00:00,Request Hint,In Progress
+40,19,2024-01-02 05:23:00,Attempt Quiz,Failure
+40,107,2024-01-02 05:31:00,Request Hint,Failure
+40,245,2024-01-02 05:33:00,Request Hint,In Progress
+40,187,2024-01-02 05:41:00,Attempt Quiz,In Progress
+41,100,2024-01-01 01:43:00,Forum Discussion,In Progress
+41,164,2024-01-01 02:03:00,Forum Discussion,In Progress
+41,167,2024-01-01 05:24:00,Forum Discussion,Success
+41,229,2024-01-01 12:43:00,Read Material,Failure
+41,189,2024-01-01 16:45:00,Forum Discussion,Failure
+41,93,2024-01-01 20:46:00,Attempt Quiz,Success
+41,41,2024-01-01 21:13:00,Request Hint,Completed
+41,23,2024-01-02 00:18:00,Submit Assignment,Success
+41,90,2024-01-02 04:19:00,Forum Discussion,Completed
+41,44,2024-01-02 05:47:00,Forum Discussion,In Progress
+41,22,2024-01-02 09:12:00,Request Hint,Success
+41,179,2024-01-02 09:18:00,Request Hint,Failure
+42,264,2024-01-01 00:32:00,Read Material,Failure
+42,285,2024-01-01 02:35:00,Attempt Quiz,Success
+42,39,2024-01-01 02:56:00,Submit Assignment,Completed
+42,77,2024-01-01 04:43:00,Attempt Quiz,Success
+42,144,2024-01-01 06:51:00,Forum Discussion,In Progress
+42,42,2024-01-01 07:29:00,Submit Assignment,In Progress
+42,288,2024-01-01 10:45:00,Submit Assignment,In Progress
+42,39,2024-01-01 11:05:00,Request Hint,Completed
+42,143,2024-01-01 15:25:00,Read Material,In Progress
+42,227,2024-01-01 16:44:00,Watch Video,In Progress
+42,15,2024-01-01 18:56:00,Attempt Quiz,Failure
+42,93,2024-01-01 19:26:00,Request Hint,Success
+42,191,2024-01-02 00:16:00,Watch Video,Completed
+42,79,2024-01-02 01:29:00,Request Hint,In Progress
+42,165,2024-01-02 03:02:00,Request Hint,Success
+42,138,2024-01-02 03:06:00,Submit Assignment,Success
+42,223,2024-01-02 04:57:00,Attempt Quiz,Failure
+42,156,2024-01-02 05:52:00,Watch Video,Success
+42,173,2024-01-02 06:04:00,Watch Video,Completed
+43,276,2024-01-01 02:46:00,Request Hint,Completed
+43,12,2024-01-01 06:47:00,Attempt Quiz,In Progress
+43,164,2024-01-01 09:14:00,Read Material,Completed
+43,196,2024-01-01 09:21:00,Submit Assignment,Completed
+43,98,2024-01-01 14:58:00,Attempt Quiz,Completed
+43,8,2024-01-01 20:11:00,Forum Discussion,Success
+43,105,2024-01-01 20:32:00,Request Hint,Completed
+43,193,2024-01-01 21:27:00,Request Hint,Success
+43,49,2024-01-02 01:28:00,Watch Video,Success
+43,21,2024-01-02 02:47:00,Watch Video,In Progress
+43,214,2024-01-02 03:54:00,Request Hint,Failure
+44,150,2024-01-01 01:03:00,Read Material,Success
+44,177,2024-01-01 01:21:00,Submit Assignment,Success
+44,1,2024-01-01 02:17:00,Attempt Quiz,Success
+44,234,2024-01-01 03:03:00,Watch Video,Failure
+44,142,2024-01-01 03:25:00,Read Material,Completed
+44,76,2024-01-01 03:54:00,Watch Video,In Progress
+44,232,2024-01-01 06:06:00,Read Material,Failure
+44,34,2024-01-01 09:22:00,Attempt Quiz,Failure
+44,224,2024-01-01 11:57:00,Request Hint,In Progress
+44,158,2024-01-01 16:28:00,Request Hint,In Progress
+44,39,2024-01-01 17:36:00,Watch Video,In Progress
+44,201,2024-01-01 18:04:00,Attempt Quiz,Success
+44,35,2024-01-01 23:46:00,Forum Discussion,Success
+44,214,2024-01-02 01:34:00,Read Material,Failure
+44,156,2024-01-02 01:40:00,Request Hint,In Progress
+44,169,2024-01-02 08:31:00,Submit Assignment,Success
+45,298,2024-01-01 01:46:00,Request Hint,In Progress
+45,223,2024-01-01 02:57:00,Request Hint,Completed
+45,149,2024-01-01 07:02:00,Forum Discussion,Success
+45,235,2024-01-01 11:21:00,Watch Video,Failure
+45,184,2024-01-01 11:36:00,Read Material,Success
+45,10,2024-01-01 11:58:00,Watch Video,Failure
+45,219,2024-01-01 12:00:00,Submit Assignment,In Progress
+45,129,2024-01-01 13:49:00,Forum Discussion,Success
+45,254,2024-01-01 15:39:00,Read Material,In Progress
+45,142,2024-01-01 17:35:00,Watch Video,Success
+45,72,2024-01-01 20:04:00,Read Material,Success
+45,278,2024-01-01 22:10:00,Request Hint,Failure
+45,13,2024-01-02 00:39:00,Forum Discussion,Completed
+45,28,2024-01-02 02:43:00,Watch Video,Failure
+45,162,2024-01-02 03:33:00,Attempt Quiz,In Progress
+45,154,2024-01-02 05:24:00,Request Hint,In Progress
+45,74,2024-01-02 05:49:00,Request Hint,In Progress
+45,278,2024-01-02 06:00:00,Submit Assignment,Failure
+45,95,2024-01-02 09:09:00,Request Hint,Failure
+46,136,2024-01-01 06:10:00,Watch Video,Success
+46,5,2024-01-01 06:16:00,Submit Assignment,Success
+46,291,2024-01-01 06:34:00,Read Material,In Progress
+46,232,2024-01-01 09:27:00,Request Hint,Failure
+46,32,2024-01-01 11:02:00,Submit Assignment,Completed
+46,109,2024-01-01 12:56:00,Attempt Quiz,Completed
+46,58,2024-01-01 15:34:00,Attempt Quiz,Success
+46,239,2024-01-01 20:23:00,Submit Assignment,Failure
+46,268,2024-01-01 20:51:00,Attempt Quiz,Failure
+46,70,2024-01-01 23:05:00,Attempt Quiz,In Progress
+46,120,2024-01-02 00:45:00,Request Hint,Failure
+46,228,2024-01-02 03:16:00,Request Hint,Completed
+46,157,2024-01-02 03:59:00,Request Hint,In Progress
+46,91,2024-01-02 06:22:00,Forum Discussion,Failure
+46,69,2024-01-02 07:25:00,Submit Assignment,Success
+46,51,2024-01-02 08:17:00,Submit Assignment,In Progress
+46,198,2024-01-02 08:25:00,Request Hint,In Progress
+46,3,2024-01-02 08:37:00,Submit Assignment,Completed
+47,208,2024-01-01 00:39:00,Submit Assignment,Completed
+47,59,2024-01-01 01:05:00,Read Material,Completed
+47,204,2024-01-01 02:23:00,Forum Discussion,Completed
+47,264,2024-01-01 06:37:00,Read Material,Success
+47,130,2024-01-01 07:43:00,Forum Discussion,Failure
+47,156,2024-01-01 08:30:00,Submit Assignment,In Progress
+47,112,2024-01-01 12:02:00,Watch Video,Completed
+47,75,2024-01-01 12:13:00,Forum Discussion,Failure
+47,19,2024-01-01 13:01:00,Request Hint,In Progress
+47,44,2024-01-01 14:13:00,Attempt Quiz,Failure
+47,227,2024-01-01 15:43:00,Watch Video,Completed
+47,55,2024-01-01 15:58:00,Submit Assignment,Success
+47,46,2024-01-01 17:46:00,Forum Discussion,Failure
+47,183,2024-01-01 19:51:00,Watch Video,Success
+47,168,2024-01-01 20:01:00,Forum Discussion,Failure
+47,82,2024-01-01 20:21:00,Request Hint,Completed
+47,73,2024-01-01 21:05:00,Submit Assignment,Completed
+47,21,2024-01-01 22:19:00,Forum Discussion,In Progress
+47,13,2024-01-01 23:30:00,Attempt Quiz,Success
+47,100,2024-01-02 01:48:00,Watch Video,Failure
+47,94,2024-01-02 02:10:00,Request Hint,Failure
+47,68,2024-01-02 04:25:00,Request Hint,Failure
+47,41,2024-01-02 07:05:00,Watch Video,Success
+47,38,2024-01-02 07:39:00,Submit Assignment,Completed
+47,16,2024-01-02 07:51:00,Watch Video,Success
+48,262,2024-01-01 01:28:00,Request Hint,Failure
+48,266,2024-01-01 02:11:00,Read Material,Completed
+48,71,2024-01-01 04:51:00,Submit Assignment,In Progress
+48,47,2024-01-01 04:59:00,Watch Video,Success
+48,49,2024-01-01 05:31:00,Forum Discussion,Success
+48,293,2024-01-01 05:38:00,Forum Discussion,Success
+48,218,2024-01-01 05:59:00,Forum Discussion,Completed
+48,145,2024-01-01 06:48:00,Watch Video,Success
+48,141,2024-01-01 08:09:00,Watch Video,Failure
+48,103,2024-01-01 08:38:00,Watch Video,In Progress
+48,178,2024-01-01 15:48:00,Submit Assignment,Failure
+48,249,2024-01-01 23:14:00,Read Material,Failure
+48,210,2024-01-02 02:25:00,Watch Video,In Progress
+48,126,2024-01-02 03:41:00,Forum Discussion,Failure
+48,70,2024-01-02 05:11:00,Attempt Quiz,Completed
+48,184,2024-01-02 05:17:00,Request Hint,Completed
+48,86,2024-01-02 05:46:00,Attempt Quiz,Completed
+48,32,2024-01-02 08:48:00,Attempt Quiz,In Progress
+49,223,2024-01-01 00:29:00,Watch Video,Failure
+49,109,2024-01-01 06:04:00,Read Material,In Progress
+49,239,2024-01-01 07:27:00,Read Material,In Progress
+49,264,2024-01-01 09:53:00,Forum Discussion,In Progress
+49,261,2024-01-01 10:18:00,Attempt Quiz,Completed
+49,243,2024-01-01 12:14:00,Request Hint,Success
+49,118,2024-01-01 13:12:00,Forum Discussion,Failure
+49,78,2024-01-01 13:21:00,Submit Assignment,Success
+49,26,2024-01-01 15:36:00,Attempt Quiz,Completed
+49,227,2024-01-01 18:22:00,Attempt Quiz,In Progress
+49,204,2024-01-01 21:38:00,Submit Assignment,Failure
+49,154,2024-01-01 21:45:00,Submit Assignment,In Progress
+49,262,2024-01-01 21:49:00,Watch Video,Completed
+49,37,2024-01-01 21:55:00,Forum Discussion,Completed
+49,224,2024-01-01 22:09:00,Read Material,Success
+49,121,2024-01-02 01:42:00,Read Material,In Progress
+49,222,2024-01-02 03:31:00,Watch Video,Success
+49,228,2024-01-02 03:47:00,Forum Discussion,Failure
+49,175,2024-01-02 04:27:00,Read Material,In Progress
+50,93,2024-01-01 01:10:00,Watch Video,Success
+50,106,2024-01-01 04:39:00,Read Material,In Progress
+50,279,2024-01-01 06:54:00,Read Material,Completed
+50,213,2024-01-01 09:08:00,Read Material,Failure
+50,233,2024-01-01 11:07:00,Request Hint,Success
+50,14,2024-01-01 12:40:00,Request Hint,Success
+50,163,2024-01-01 14:04:00,Watch Video,Failure
+50,160,2024-01-01 14:25:00,Attempt Quiz,Completed
+50,243,2024-01-01 15:17:00,Watch Video,Completed
+50,215,2024-01-01 17:59:00,Attempt Quiz,Completed
+50,68,2024-01-01 18:26:00,Request Hint,In Progress
+50,164,2024-01-01 22:42:00,Request Hint,Completed
+50,47,2024-01-02 04:33:00,Attempt Quiz,In Progress
+50,116,2024-01-02 07:02:00,Submit Assignment,In Progress
+50,1,2024-01-02 08:26:00,Forum Discussion,Success
+51,3,2024-01-01 00:41:00,Submit Assignment,In Progress
+51,14,2024-01-01 00:45:00,Read Material,Failure
+51,119,2024-01-01 02:37:00,Read Material,Failure
+51,287,2024-01-01 03:24:00,Forum Discussion,Success
+51,254,2024-01-01 05:45:00,Watch Video,Success
+51,180,2024-01-01 07:18:00,Attempt Quiz,Failure
+51,267,2024-01-01 08:23:00,Read Material,In Progress
+51,160,2024-01-01 09:13:00,Submit Assignment,Success
+51,295,2024-01-01 13:48:00,Read Material,Failure
+51,196,2024-01-01 14:20:00,Submit Assignment,In Progress
+51,154,2024-01-01 14:31:00,Forum Discussion,Failure
+51,161,2024-01-01 14:40:00,Submit Assignment,Failure
+51,32,2024-01-01 15:19:00,Request Hint,Success
+51,191,2024-01-01 17:26:00,Forum Discussion,Completed
+51,117,2024-01-01 17:34:00,Read Material,In Progress
+51,157,2024-01-01 19:04:00,Attempt Quiz,In Progress
+51,214,2024-01-01 19:17:00,Attempt Quiz,Completed
+51,210,2024-01-01 19:19:00,Read Material,In Progress
+51,283,2024-01-01 19:24:00,Request Hint,Failure
+51,84,2024-01-01 20:42:00,Forum Discussion,Success
+51,148,2024-01-01 21:29:00,Watch Video,Failure
+51,274,2024-01-01 22:02:00,Request Hint,Success
+51,125,2024-01-01 22:24:00,Submit Assignment,Completed
+51,184,2024-01-01 22:55:00,Forum Discussion,In Progress
+51,231,2024-01-02 00:50:00,Forum Discussion,Completed
+51,294,2024-01-02 01:35:00,Attempt Quiz,Completed
+51,4,2024-01-02 07:19:00,Forum Discussion,In Progress
+51,272,2024-01-02 09:16:00,Forum Discussion,Failure
+52,76,2024-01-01 00:00:00,Request Hint,Failure
+52,245,2024-01-01 02:40:00,Submit Assignment,Failure
+52,73,2024-01-01 03:32:00,Read Material,Success
+52,89,2024-01-01 03:35:00,Attempt Quiz,Failure
+52,275,2024-01-01 04:29:00,Request Hint,Failure
+52,49,2024-01-01 07:28:00,Read Material,Success
+52,266,2024-01-01 07:47:00,Request Hint,Completed
+52,62,2024-01-01 08:49:00,Watch Video,In Progress
+52,78,2024-01-01 10:29:00,Forum Discussion,In Progress
+52,266,2024-01-01 10:36:00,Attempt Quiz,Failure
+52,21,2024-01-01 14:34:00,Read Material,Completed
+52,85,2024-01-01 15:56:00,Submit Assignment,Failure
+52,134,2024-01-01 16:47:00,Submit Assignment,Failure
+52,192,2024-01-01 19:54:00,Forum Discussion,Failure
+52,195,2024-01-01 21:10:00,Forum Discussion,Failure
+52,294,2024-01-01 21:34:00,Watch Video,Failure
+52,90,2024-01-02 04:07:00,Request Hint,In Progress
+52,271,2024-01-02 07:10:00,Read Material,Failure
+53,116,2024-01-01 00:15:00,Read Material,Completed
+53,119,2024-01-01 00:57:00,Read Material,In Progress
+53,40,2024-01-01 01:38:00,Forum Discussion,Success
+53,65,2024-01-01 03:53:00,Forum Discussion,Failure
+53,27,2024-01-01 06:17:00,Forum Discussion,In Progress
+53,134,2024-01-01 07:36:00,Submit Assignment,Completed
+53,140,2024-01-01 10:39:00,Submit Assignment,Success
+53,288,2024-01-01 10:44:00,Request Hint,In Progress
+53,245,2024-01-01 13:36:00,Forum Discussion,Failure
+53,69,2024-01-01 13:38:00,Request Hint,In Progress
+53,17,2024-01-01 14:55:00,Attempt Quiz,Failure
+53,277,2024-01-01 16:56:00,Submit Assignment,Success
+53,262,2024-01-01 19:16:00,Read Material,Completed
+53,30,2024-01-01 21:07:00,Watch Video,Failure
+53,152,2024-01-01 23:45:00,Submit Assignment,Completed
+53,234,2024-01-02 00:36:00,Submit Assignment,Failure
+53,53,2024-01-02 00:51:00,Request Hint,In Progress
+53,16,2024-01-02 03:43:00,Forum Discussion,In Progress
+53,101,2024-01-02 05:51:00,Read Material,In Progress
+53,265,2024-01-02 06:07:00,Request Hint,Failure
+53,194,2024-01-02 08:21:00,Watch Video,Failure
+53,73,2024-01-02 08:32:00,Forum Discussion,Completed
+54,24,2024-01-01 01:14:00,Request Hint,Success
+54,4,2024-01-01 01:16:00,Forum Discussion,Completed
+54,19,2024-01-01 03:46:00,Submit Assignment,Failure
+54,220,2024-01-01 05:04:00,Read Material,Failure
+54,152,2024-01-01 05:20:00,Read Material,Completed
+54,258,2024-01-01 05:46:00,Watch Video,In Progress
+54,258,2024-01-01 06:31:00,Read Material,Success
+54,291,2024-01-01 07:32:00,Submit Assignment,Failure
+54,283,2024-01-01 11:28:00,Read Material,Failure
+54,186,2024-01-01 12:19:00,Request Hint,In Progress
+54,106,2024-01-01 14:02:00,Attempt Quiz,Completed
+54,120,2024-01-01 14:07:00,Request Hint,Completed
+54,49,2024-01-01 20:55:00,Watch Video,In Progress
+54,284,2024-01-01 21:00:00,Attempt Quiz,Failure
+54,275,2024-01-01 21:30:00,Submit Assignment,Success
+54,246,2024-01-01 22:53:00,Forum Discussion,Failure
+54,102,2024-01-01 23:09:00,Submit Assignment,Completed
+54,118,2024-01-02 00:48:00,Attempt Quiz,Completed
+54,23,2024-01-02 01:03:00,Forum Discussion,Failure
+54,28,2024-01-02 04:14:00,Request Hint,Completed
+54,181,2024-01-02 04:24:00,Submit Assignment,Completed
+55,127,2024-01-01 00:42:00,Watch Video,Success
+55,102,2024-01-01 04:00:00,Request Hint,Failure
+55,276,2024-01-01 07:45:00,Attempt Quiz,Completed
+55,25,2024-01-01 07:57:00,Watch Video,Failure
+55,43,2024-01-01 10:04:00,Attempt Quiz,Success
+55,50,2024-01-01 13:28:00,Watch Video,Success
+55,2,2024-01-01 15:01:00,Attempt Quiz,Completed
+55,273,2024-01-01 17:09:00,Submit Assignment,Failure
+55,90,2024-01-01 19:39:00,Watch Video,Success
+55,277,2024-01-01 21:01:00,Watch Video,Success
+55,104,2024-01-01 22:30:00,Request Hint,Failure
+55,5,2024-01-01 22:39:00,Attempt Quiz,Success
+55,192,2024-01-01 23:13:00,Request Hint,Success
+55,74,2024-01-02 01:05:00,Request Hint,Failure
+55,162,2024-01-02 01:47:00,Submit Assignment,In Progress
+55,227,2024-01-02 02:50:00,Watch Video,Completed
+55,280,2024-01-02 03:04:00,Request Hint,Completed
+56,77,2024-01-01 03:40:00,Read Material,Failure
+56,110,2024-01-01 04:02:00,Watch Video,Success
+56,72,2024-01-01 11:52:00,Forum Discussion,Success
+56,113,2024-01-01 13:05:00,Submit Assignment,In Progress
+56,81,2024-01-01 14:46:00,Forum Discussion,Failure
+56,167,2024-01-01 15:09:00,Submit Assignment,In Progress
+56,167,2024-01-01 15:45:00,Watch Video,Failure
+56,47,2024-01-01 15:59:00,Read Material,Success
+56,129,2024-01-01 16:11:00,Request Hint,Failure
+56,226,2024-01-01 16:52:00,Attempt Quiz,Success
+56,267,2024-01-01 19:55:00,Forum Discussion,Failure
+56,201,2024-01-01 22:03:00,Forum Discussion,Completed
+56,148,2024-01-02 01:09:00,Submit Assignment,In Progress
+56,104,2024-01-02 03:23:00,Forum Discussion,In Progress
+56,104,2024-01-02 03:57:00,Submit Assignment,Failure
+56,122,2024-01-02 04:48:00,Request Hint,Failure
+56,273,2024-01-02 05:30:00,Submit Assignment,Completed
+56,185,2024-01-02 07:47:00,Attempt Quiz,Success
+57,178,2024-01-01 02:59:00,Read Material,Success
+57,136,2024-01-01 04:37:00,Request Hint,Failure
+57,121,2024-01-01 07:00:00,Request Hint,Success
+57,253,2024-01-01 08:25:00,Forum Discussion,In Progress
+57,181,2024-01-01 10:42:00,Attempt Quiz,Completed
+57,121,2024-01-01 12:11:00,Request Hint,Failure
+57,20,2024-01-01 12:23:00,Attempt Quiz,Success
+57,205,2024-01-01 14:11:00,Request Hint,In Progress
+57,129,2024-01-01 16:24:00,Read Material,Completed
+57,4,2024-01-01 17:28:00,Watch Video,Completed
+57,190,2024-01-01 19:36:00,Read Material,In Progress
+57,223,2024-01-01 20:57:00,Submit Assignment,In Progress
+57,156,2024-01-01 21:11:00,Request Hint,In Progress
+57,267,2024-01-01 22:47:00,Submit Assignment,In Progress
+57,61,2024-01-02 00:29:00,Submit Assignment,Completed
+57,137,2024-01-02 01:46:00,Request Hint,Success
+57,272,2024-01-02 03:21:00,Request Hint,In Progress
+57,17,2024-01-02 04:17:00,Read Material,Completed
+57,59,2024-01-02 07:57:00,Attempt Quiz,Failure
+58,9,2024-01-01 00:26:00,Forum Discussion,Success
+58,169,2024-01-01 03:34:00,Forum Discussion,Completed
+58,102,2024-01-01 06:32:00,Attempt Quiz,Completed
+58,154,2024-01-01 07:20:00,Forum Discussion,In Progress
+58,101,2024-01-01 07:24:00,Request Hint,Success
+58,244,2024-01-01 07:25:00,Request Hint,Failure
+58,238,2024-01-01 07:56:00,Attempt Quiz,Success
+58,288,2024-01-01 08:05:00,Read Material,Failure
+58,92,2024-01-01 08:53:00,Watch Video,In Progress
+58,60,2024-01-01 09:41:00,Submit Assignment,In Progress
+58,226,2024-01-01 10:46:00,Submit Assignment,In Progress
+58,174,2024-01-01 10:59:00,Request Hint,In Progress
+58,118,2024-01-01 11:39:00,Forum Discussion,In Progress
+58,104,2024-01-01 11:56:00,Attempt Quiz,Success
+58,4,2024-01-01 12:38:00,Forum Discussion,Failure
+58,136,2024-01-02 00:07:00,Submit Assignment,Failure
+58,59,2024-01-02 05:28:00,Watch Video,In Progress
+58,101,2024-01-02 06:01:00,Request Hint,In Progress
+58,181,2024-01-02 07:21:00,Request Hint,Completed
+58,162,2024-01-02 08:01:00,Forum Discussion,Failure
+59,204,2024-01-01 00:31:00,Request Hint,Completed
+59,126,2024-01-01 02:52:00,Watch Video,Completed
+59,90,2024-01-01 03:28:00,Attempt Quiz,In Progress
+59,98,2024-01-01 03:42:00,Submit Assignment,Failure
+59,300,2024-01-01 04:14:00,Request Hint,In Progress
+59,117,2024-01-01 04:20:00,Read Material,Completed
+59,160,2024-01-01 05:40:00,Forum Discussion,Success
+59,51,2024-01-01 10:16:00,Attempt Quiz,Success
+59,198,2024-01-01 13:19:00,Submit Assignment,Failure
+59,220,2024-01-01 16:10:00,Read Material,Failure
+59,216,2024-01-01 16:51:00,Read Material,Completed
+59,131,2024-01-01 16:53:00,Attempt Quiz,Failure
+59,47,2024-01-01 21:28:00,Attempt Quiz,Failure
+59,246,2024-01-01 22:51:00,Watch Video,Failure
+59,264,2024-01-01 23:53:00,Submit Assignment,In Progress
+59,214,2024-01-02 01:00:00,Forum Discussion,In Progress
+59,139,2024-01-02 01:41:00,Read Material,Success
+59,11,2024-01-02 02:07:00,Watch Video,Completed
+59,100,2024-01-02 02:27:00,Forum Discussion,In Progress
+59,162,2024-01-02 02:36:00,Watch Video,In Progress
+59,225,2024-01-02 03:51:00,Read Material,Failure
+59,119,2024-01-02 04:09:00,Forum Discussion,Failure
+59,108,2024-01-02 05:04:00,Request Hint,Success
+59,242,2024-01-02 05:44:00,Watch Video,Completed
+59,93,2024-01-02 05:45:00,Attempt Quiz,Failure
+59,213,2024-01-02 07:53:00,Request Hint,Failure
+60,122,2024-01-01 00:22:00,Forum Discussion,Success
+60,84,2024-01-01 00:34:00,Request Hint,Completed
+60,55,2024-01-01 00:53:00,Watch Video,In Progress
+60,82,2024-01-01 01:01:00,Request Hint,Success
+60,8,2024-01-01 01:42:00,Read Material,Failure
+60,74,2024-01-01 04:48:00,Watch Video,Success
+60,264,2024-01-01 06:20:00,Submit Assignment,Completed
+60,5,2024-01-01 06:58:00,Read Material,In Progress
+60,158,2024-01-01 07:33:00,Submit Assignment,In Progress
+60,67,2024-01-01 07:37:00,Attempt Quiz,In Progress
+60,221,2024-01-01 12:39:00,Request Hint,Completed
+60,196,2024-01-01 18:25:00,Read Material,Failure
+60,158,2024-01-01 18:38:00,Watch Video,Success
+60,255,2024-01-01 18:44:00,Read Material,Failure
+60,285,2024-01-01 20:31:00,Watch Video,Completed
+60,225,2024-01-01 23:26:00,Watch Video,In Progress
+60,3,2024-01-02 02:42:00,Request Hint,Completed
+60,48,2024-01-02 05:16:00,Forum Discussion,Failure
+60,252,2024-01-02 05:57:00,Request Hint,In Progress
+60,116,2024-01-02 06:27:00,Watch Video,Completed
+60,193,2024-01-02 06:40:00,Submit Assignment,Success
+60,217,2024-01-02 08:16:00,Submit Assignment,Success
+60,70,2024-01-02 08:34:00,Watch Video,In Progress
+60,128,2024-01-02 08:49:00,Forum Discussion,Completed
+61,86,2024-01-01 00:04:00,Request Hint,Success
+61,60,2024-01-01 05:23:00,Submit Assignment,Completed
+61,68,2024-01-01 05:58:00,Forum Discussion,Failure
+61,160,2024-01-01 08:13:00,Watch Video,In Progress
+61,173,2024-01-01 09:12:00,Forum Discussion,Failure
+61,38,2024-01-01 10:21:00,Attempt Quiz,Success
+61,213,2024-01-01 11:27:00,Attempt Quiz,Failure
+61,295,2024-01-01 11:43:00,Forum Discussion,Success
+61,66,2024-01-01 12:01:00,Submit Assignment,Success
+61,49,2024-01-01 15:18:00,Read Material,Success
+61,232,2024-01-01 15:26:00,Read Material,Failure
+61,197,2024-01-01 15:49:00,Watch Video,Failure
+61,125,2024-01-01 21:54:00,Submit Assignment,Completed
+61,204,2024-01-02 01:27:00,Watch Video,In Progress
+61,65,2024-01-02 01:43:00,Attempt Quiz,In Progress
+61,45,2024-01-02 03:53:00,Forum Discussion,In Progress
+61,188,2024-01-02 04:31:00,Attempt Quiz,In Progress
+61,139,2024-01-02 08:05:00,Forum Discussion,Completed
+62,7,2024-01-01 00:37:00,Attempt Quiz,Completed
+62,84,2024-01-01 00:38:00,Forum Discussion,Completed
+62,22,2024-01-01 00:40:00,Request Hint,Failure
+62,250,2024-01-01 01:24:00,Attempt Quiz,Success
+62,125,2024-01-01 01:33:00,Forum Discussion,In Progress
+62,133,2024-01-01 02:13:00,Request Hint,In Progress
+62,184,2024-01-01 02:58:00,Read Material,Completed
+62,264,2024-01-01 03:06:00,Watch Video,In Progress
+62,175,2024-01-01 03:10:00,Read Material,Completed
+62,218,2024-01-01 03:14:00,Watch Video,In Progress
+62,289,2024-01-01 03:21:00,Forum Discussion,In Progress
+62,161,2024-01-01 03:33:00,Submit Assignment,Failure
+62,262,2024-01-01 07:22:00,Request Hint,Success
+62,25,2024-01-01 08:00:00,Read Material,Failure
+62,263,2024-01-01 08:32:00,Request Hint,Completed
+62,101,2024-01-01 10:00:00,Forum Discussion,Success
+62,232,2024-01-01 10:11:00,Attempt Quiz,Success
+62,136,2024-01-01 11:49:00,Attempt Quiz,Success
+62,297,2024-01-01 13:52:00,Watch Video,Success
+62,41,2024-01-01 17:04:00,Attempt Quiz,Completed
+62,75,2024-01-01 17:05:00,Forum Discussion,Completed
+62,67,2024-01-01 17:27:00,Attempt Quiz,Completed
+62,41,2024-01-01 18:24:00,Submit Assignment,In Progress
+62,76,2024-01-01 18:53:00,Watch Video,Failure
+62,243,2024-01-01 20:27:00,Read Material,Failure
+62,77,2024-01-01 22:05:00,Attempt Quiz,Success
+62,215,2024-01-02 00:44:00,Request Hint,In Progress
+62,191,2024-01-02 01:16:00,Forum Discussion,Completed
+62,83,2024-01-02 01:50:00,Watch Video,In Progress
+62,230,2024-01-02 03:18:00,Forum Discussion,Failure
+62,156,2024-01-02 03:20:00,Submit Assignment,Completed
+62,55,2024-01-02 03:38:00,Request Hint,Success
+62,205,2024-01-02 04:02:00,Attempt Quiz,Completed
+62,174,2024-01-02 04:35:00,Forum Discussion,Completed
+62,108,2024-01-02 05:26:00,Watch Video,Completed
+63,20,2024-01-01 01:18:00,Watch Video,Completed
+63,130,2024-01-01 01:55:00,Read Material,Failure
+63,35,2024-01-01 02:38:00,Request Hint,Failure
+63,200,2024-01-01 06:22:00,Read Material,Failure
+63,258,2024-01-01 07:16:00,Read Material,Success
+63,196,2024-01-01 07:21:00,Forum Discussion,In Progress
+63,95,2024-01-01 07:53:00,Attempt Quiz,In Progress
+63,254,2024-01-01 08:15:00,Read Material,Completed
+63,186,2024-01-01 11:50:00,Attempt Quiz,In Progress
+63,24,2024-01-01 12:47:00,Submit Assignment,Success
+63,148,2024-01-01 13:16:00,Read Material,Success
+63,142,2024-01-01 14:32:00,Request Hint,Success
+63,89,2024-01-01 15:47:00,Forum Discussion,In Progress
+63,124,2024-01-01 18:11:00,Watch Video,Success
+63,260,2024-01-01 19:08:00,Submit Assignment,In Progress
+63,294,2024-01-01 20:59:00,Read Material,Failure
+63,23,2024-01-01 21:15:00,Request Hint,Completed
+63,113,2024-01-01 21:40:00,Submit Assignment,Success
+63,122,2024-01-01 21:53:00,Request Hint,In Progress
+63,111,2024-01-01 22:25:00,Attempt Quiz,Failure
+63,195,2024-01-02 03:58:00,Attempt Quiz,Failure
+63,288,2024-01-02 04:13:00,Attempt Quiz,Failure
+63,171,2024-01-02 05:54:00,Read Material,Success
+63,41,2024-01-02 06:38:00,Read Material,Completed
+63,43,2024-01-02 08:50:00,Submit Assignment,In Progress
+64,174,2024-01-01 00:21:00,Read Material,In Progress
+64,297,2024-01-01 00:43:00,Watch Video,Completed
+64,280,2024-01-01 05:55:00,Forum Discussion,Completed
+64,167,2024-01-01 06:03:00,Read Material,In Progress
+64,43,2024-01-01 08:14:00,Request Hint,Success
+64,247,2024-01-01 09:51:00,Submit Assignment,Completed
+64,55,2024-01-01 12:45:00,Watch Video,Failure
+64,7,2024-01-01 14:22:00,Read Material,Completed
+64,275,2024-01-01 16:19:00,Read Material,Failure
+64,60,2024-01-01 16:49:00,Forum Discussion,Completed
+64,190,2024-01-01 17:50:00,Attempt Quiz,Failure
+64,16,2024-01-01 18:36:00,Submit Assignment,Failure
+64,268,2024-01-01 18:39:00,Forum Discussion,Success
+64,109,2024-01-01 19:27:00,Watch Video,Failure
+64,55,2024-01-02 00:46:00,Read Material,Completed
+64,181,2024-01-02 06:28:00,Attempt Quiz,Completed
+64,109,2024-01-02 06:52:00,Forum Discussion,Success
+64,221,2024-01-02 07:04:00,Request Hint,Success
+64,214,2024-01-02 08:07:00,Forum Discussion,In Progress
+64,251,2024-01-02 08:30:00,Forum Discussion,Failure
+64,247,2024-01-02 08:56:00,Watch Video,Success
+64,147,2024-01-02 09:03:00,Watch Video,Completed
+65,14,2024-01-01 01:47:00,Attempt Quiz,Success
+65,107,2024-01-01 02:21:00,Read Material,Failure
+65,231,2024-01-01 07:04:00,Forum Discussion,Success
+65,256,2024-01-01 09:17:00,Request Hint,In Progress
+65,224,2024-01-01 11:16:00,Attempt Quiz,In Progress
+65,113,2024-01-01 13:09:00,Attempt Quiz,In Progress
+65,182,2024-01-01 13:53:00,Attempt Quiz,In Progress
+65,270,2024-01-01 14:06:00,Read Material,In Progress
+65,251,2024-01-01 18:10:00,Request Hint,Success
+65,117,2024-01-01 22:46:00,Watch Video,Completed
+65,221,2024-01-02 00:49:00,Forum Discussion,In Progress
+65,187,2024-01-02 03:29:00,Request Hint,In Progress
+65,12,2024-01-02 03:42:00,Forum Discussion,In Progress
+65,132,2024-01-02 06:58:00,Attempt Quiz,Failure
+66,185,2024-01-01 02:55:00,Read Material,Completed
+66,50,2024-01-01 05:19:00,Forum Discussion,In Progress
+66,36,2024-01-01 06:40:00,Attempt Quiz,Failure
+66,114,2024-01-01 07:13:00,Submit Assignment,Success
+66,149,2024-01-01 11:09:00,Read Material,In Progress
+66,228,2024-01-01 13:03:00,Request Hint,Success
+66,250,2024-01-01 14:18:00,Forum Discussion,Success
+66,98,2024-01-01 14:56:00,Watch Video,In Progress
+66,156,2024-01-01 17:18:00,Watch Video,Failure
+66,294,2024-01-01 17:29:00,Request Hint,Failure
+66,72,2024-01-01 19:14:00,Submit Assignment,In Progress
+66,106,2024-01-01 19:43:00,Read Material,Completed
+66,300,2024-01-01 22:20:00,Read Material,Failure
+66,25,2024-01-02 00:01:00,Forum Discussion,Success
+66,264,2024-01-02 01:20:00,Submit Assignment,Failure
+66,102,2024-01-02 03:03:00,Submit Assignment,Success
+66,163,2024-01-02 06:19:00,Forum Discussion,Completed
+67,203,2024-01-01 04:24:00,Submit Assignment,Completed
+67,119,2024-01-01 05:35:00,Forum Discussion,Failure
+67,259,2024-01-01 06:27:00,Read Material,In Progress
+67,209,2024-01-01 06:33:00,Watch Video,Completed
+67,287,2024-01-01 08:19:00,Request Hint,Completed
+67,191,2024-01-01 09:16:00,Submit Assignment,Failure
+67,189,2024-01-01 11:35:00,Request Hint,Success
+67,76,2024-01-01 15:11:00,Request Hint,Success
+67,59,2024-01-01 15:13:00,Request Hint,Success
+67,128,2024-01-01 16:36:00,Read Material,Failure
+67,262,2024-01-01 19:22:00,Forum Discussion,Failure
+67,173,2024-01-01 22:48:00,Read Material,Failure
+67,5,2024-01-01 22:54:00,Watch Video,Success
+67,22,2024-01-01 23:35:00,Request Hint,Success
+67,277,2024-01-02 04:49:00,Forum Discussion,In Progress
+67,86,2024-01-02 04:53:00,Attempt Quiz,Success
+67,125,2024-01-02 05:29:00,Attempt Quiz,Completed
+67,112,2024-01-02 07:45:00,Request Hint,Failure
+68,291,2024-01-01 03:59:00,Submit Assignment,Success
+68,164,2024-01-01 05:27:00,Read Material,Failure
+68,14,2024-01-01 07:39:00,Submit Assignment,Completed
+68,130,2024-01-01 09:40:00,Submit Assignment,Completed
+68,59,2024-01-01 16:34:00,Attempt Quiz,Success
+68,115,2024-01-01 17:40:00,Request Hint,In Progress
+68,245,2024-01-01 19:41:00,Read Material,Completed
+68,108,2024-01-01 20:02:00,Watch Video,Success
+68,210,2024-01-01 20:35:00,Attempt Quiz,Success
+68,250,2024-01-01 23:07:00,Submit Assignment,Completed
+68,153,2024-01-02 03:36:00,Attempt Quiz,Success
+68,160,2024-01-02 03:49:00,Forum Discussion,Success
+68,226,2024-01-02 04:44:00,Read Material,Success
+68,256,2024-01-02 06:46:00,Attempt Quiz,In Progress
+68,76,2024-01-02 06:50:00,Attempt Quiz,In Progress
+69,282,2024-01-01 04:06:00,Read Material,Failure
+69,298,2024-01-01 04:53:00,Submit Assignment,Success
+69,19,2024-01-01 05:57:00,Attempt Quiz,Success
+69,130,2024-01-01 08:16:00,Attempt Quiz,Failure
+69,149,2024-01-01 08:29:00,Attempt Quiz,Success
+69,80,2024-01-01 08:33:00,Watch Video,Completed
+69,63,2024-01-01 08:46:00,Read Material,Failure
+69,86,2024-01-01 08:56:00,Read Material,Success
+69,217,2024-01-01 10:32:00,Read Material,Completed
+69,192,2024-01-01 13:00:00,Watch Video,Success
+69,254,2024-01-01 13:32:00,Forum Discussion,Failure
+69,169,2024-01-01 14:52:00,Read Material,Completed
+69,222,2024-01-01 18:23:00,Watch Video,Success
+69,174,2024-01-01 20:13:00,Submit Assignment,In Progress
+69,189,2024-01-01 23:31:00,Watch Video,Failure
+69,52,2024-01-02 01:08:00,Watch Video,Failure
+69,139,2024-01-02 05:20:00,Submit Assignment,Failure
+69,287,2024-01-02 07:58:00,Request Hint,Success
+70,26,2024-01-01 03:17:00,Attempt Quiz,Failure
+70,93,2024-01-01 03:57:00,Request Hint,Completed
+70,221,2024-01-01 04:08:00,Request Hint,Completed
+70,228,2024-01-01 04:15:00,Read Material,Failure
+70,166,2024-01-01 07:30:00,Watch Video,Completed
+70,269,2024-01-01 11:24:00,Request Hint,Failure
+70,214,2024-01-01 15:29:00,Watch Video,Success
+70,76,2024-01-01 16:54:00,Attempt Quiz,Success
+70,218,2024-01-01 16:59:00,Attempt Quiz,Completed
+70,190,2024-01-01 17:00:00,Request Hint,Failure
+70,207,2024-01-01 17:38:00,Request Hint,Failure
+70,61,2024-01-01 19:20:00,Request Hint,Failure
+70,64,2024-01-01 21:35:00,Forum Discussion,In Progress
+70,164,2024-01-02 00:13:00,Request Hint,Success
+70,175,2024-01-02 02:00:00,Attempt Quiz,In Progress
+70,59,2024-01-02 03:55:00,Watch Video,Failure
+70,68,2024-01-02 05:14:00,Request Hint,Failure
+70,114,2024-01-02 06:31:00,Read Material,Success
+71,211,2024-01-01 01:02:00,Read Material,Completed
+71,293,2024-01-01 01:49:00,Watch Video,Completed
+71,299,2024-01-01 02:51:00,Watch Video,Failure
+71,141,2024-01-01 04:28:00,Watch Video,In Progress
+71,136,2024-01-01 10:25:00,Request Hint,Completed
+71,86,2024-01-01 11:19:00,Attempt Quiz,Success
+71,126,2024-01-01 21:33:00,Forum Discussion,Failure
+71,155,2024-01-01 21:46:00,Submit Assignment,Completed
+71,170,2024-01-01 21:56:00,Watch Video,Success
+71,144,2024-01-02 00:37:00,Attempt Quiz,Failure
+71,140,2024-01-02 02:14:00,Forum Discussion,In Progress
+71,4,2024-01-02 04:06:00,Read Material,Success
+71,154,2024-01-02 06:34:00,Request Hint,Success
+71,167,2024-01-02 08:27:00,Attempt Quiz,Success
+71,109,2024-01-02 08:42:00,Read Material,In Progress
+72,80,2024-01-01 00:03:00,Read Material,Success
+72,243,2024-01-01 01:30:00,Request Hint,In Progress
+72,118,2024-01-01 02:07:00,Read Material,Completed
+72,136,2024-01-01 03:18:00,Request Hint,In Progress
+72,10,2024-01-01 05:08:00,Attempt Quiz,Success
+72,30,2024-01-01 11:42:00,Submit Assignment,Failure
+72,202,2024-01-01 12:29:00,Attempt Quiz,Success
+72,84,2024-01-01 13:58:00,Read Material,Failure
+72,267,2024-01-01 18:41:00,Forum Discussion,Completed
+72,232,2024-01-01 19:00:00,Watch Video,In Progress
+72,136,2024-01-01 19:25:00,Request Hint,In Progress
+72,161,2024-01-01 20:19:00,Submit Assignment,Success
+72,201,2024-01-01 20:38:00,Request Hint,Failure
+72,149,2024-01-01 22:52:00,Read Material,Success
+72,23,2024-01-02 02:01:00,Request Hint,Completed
+72,229,2024-01-02 02:26:00,Submit Assignment,Failure
+72,133,2024-01-02 04:10:00,Forum Discussion,Completed
+72,11,2024-01-02 05:09:00,Attempt Quiz,In Progress
+72,191,2024-01-02 08:15:00,Watch Video,In Progress
+72,162,2024-01-02 08:54:00,Request Hint,Success
+72,193,2024-01-02 08:59:00,Watch Video,Success
+73,12,2024-01-01 00:48:00,Submit Assignment,Failure
+73,195,2024-01-01 02:06:00,Forum Discussion,In Progress
+73,293,2024-01-01 04:13:00,Request Hint,Completed
+73,284,2024-01-01 09:49:00,Forum Discussion,Success
+73,158,2024-01-01 12:49:00,Forum Discussion,Success
+73,126,2024-01-01 13:46:00,Submit Assignment,Failure
+73,97,2024-01-01 15:41:00,Read Material,Completed
+73,121,2024-01-01 18:12:00,Watch Video,In Progress
+73,122,2024-01-01 21:06:00,Forum Discussion,Success
+73,1,2024-01-02 00:03:00,Watch Video,Failure
+73,205,2024-01-02 01:18:00,Read Material,Success
+73,12,2024-01-02 01:21:00,Attempt Quiz,Failure
+73,119,2024-01-02 01:22:00,Submit Assignment,Failure
+73,43,2024-01-02 03:45:00,Read Material,Success
+73,161,2024-01-02 04:43:00,Submit Assignment,Completed
+74,105,2024-01-01 01:23:00,Request Hint,In Progress
+74,282,2024-01-01 09:20:00,Forum Discussion,Completed
+74,192,2024-01-01 09:36:00,Read Material,Completed
+74,288,2024-01-01 10:58:00,Watch Video,Failure
+74,88,2024-01-01 11:31:00,Watch Video,Success
+74,154,2024-01-01 12:26:00,Attempt Quiz,Success
+74,74,2024-01-01 13:40:00,Forum Discussion,Completed
+74,192,2024-01-01 13:41:00,Read Material,In Progress
+74,61,2024-01-01 14:48:00,Forum Discussion,Failure
+74,12,2024-01-01 16:22:00,Submit Assignment,Completed
+74,37,2024-01-01 19:46:00,Read Material,Failure
+74,177,2024-01-01 20:16:00,Attempt Quiz,In Progress
+74,288,2024-01-01 21:09:00,Submit Assignment,In Progress
+74,250,2024-01-01 22:34:00,Read Material,Failure
+74,219,2024-01-01 23:17:00,Forum Discussion,Completed
+74,163,2024-01-01 23:51:00,Request Hint,Failure
+74,147,2024-01-02 01:45:00,Read Material,Success
+74,278,2024-01-02 04:15:00,Attempt Quiz,Success
+74,116,2024-01-02 06:35:00,Attempt Quiz,Failure
+75,202,2024-01-01 00:08:00,Submit Assignment,Completed
+75,242,2024-01-01 00:09:00,Attempt Quiz,Failure
+75,157,2024-01-01 03:07:00,Attempt Quiz,Success
+75,267,2024-01-01 04:01:00,Watch Video,In Progress
+75,271,2024-01-01 05:07:00,Submit Assignment,Failure
+75,48,2024-01-01 09:42:00,Attempt Quiz,In Progress
+75,114,2024-01-01 10:54:00,Request Hint,Completed
+75,90,2024-01-01 12:06:00,Watch Video,Completed
+75,24,2024-01-01 12:24:00,Submit Assignment,Success
+75,21,2024-01-01 14:19:00,Submit Assignment,In Progress
+75,65,2024-01-01 14:59:00,Request Hint,In Progress
+75,57,2024-01-01 15:04:00,Forum Discussion,Failure
+75,34,2024-01-01 17:03:00,Forum Discussion,Failure
+75,148,2024-01-01 17:21:00,Watch Video,Failure
+75,191,2024-01-01 17:31:00,Forum Discussion,In Progress
+75,164,2024-01-01 18:15:00,Request Hint,In Progress
+75,2,2024-01-01 18:28:00,Request Hint,In Progress
+75,160,2024-01-01 21:18:00,Request Hint,In Progress
+75,257,2024-01-02 00:12:00,Forum Discussion,Failure
+75,290,2024-01-02 07:20:00,Attempt Quiz,Success
+75,212,2024-01-02 07:36:00,Forum Discussion,In Progress
+75,190,2024-01-02 07:43:00,Request Hint,Success
+76,123,2024-01-01 00:25:00,Attempt Quiz,Failure
+76,143,2024-01-01 05:39:00,Read Material,Success
+76,38,2024-01-01 07:08:00,Watch Video,Completed
+76,5,2024-01-01 08:20:00,Submit Assignment,Failure
+76,252,2024-01-01 08:34:00,Submit Assignment,Failure
+76,220,2024-01-01 10:23:00,Attempt Quiz,Completed
+76,213,2024-01-01 10:56:00,Attempt Quiz,Completed
+76,38,2024-01-01 12:30:00,Attempt Quiz,Failure
+76,86,2024-01-01 18:31:00,Forum Discussion,Success
+76,19,2024-01-01 20:03:00,Submit Assignment,Success
+76,202,2024-01-01 20:33:00,Forum Discussion,In Progress
+76,259,2024-01-02 00:24:00,Forum Discussion,In Progress
+76,202,2024-01-02 04:56:00,Submit Assignment,In Progress
+76,112,2024-01-02 07:07:00,Read Material,Success
+76,195,2024-01-02 07:11:00,Watch Video,Failure
+77,1,2024-01-01 02:36:00,Submit Assignment,In Progress
+77,114,2024-01-01 03:15:00,Watch Video,Failure
+77,229,2024-01-01 11:47:00,Watch Video,In Progress
+77,188,2024-01-01 12:52:00,Watch Video,In Progress
+77,124,2024-01-01 13:22:00,Watch Video,Success
+77,280,2024-01-01 13:50:00,Submit Assignment,In Progress
+77,198,2024-01-01 14:57:00,Attempt Quiz,Failure
+77,281,2024-01-01 17:55:00,Read Material,Completed
+77,79,2024-01-02 04:03:00,Read Material,In Progress
+77,187,2024-01-02 05:18:00,Request Hint,Failure
+77,89,2024-01-02 05:21:00,Forum Discussion,Failure
+77,8,2024-01-02 05:35:00,Attempt Quiz,Completed
+77,93,2024-01-02 06:15:00,Submit Assignment,Completed
+77,216,2024-01-02 08:57:00,Attempt Quiz,Completed
+78,202,2024-01-01 01:07:00,Attempt Quiz,Success
+78,186,2024-01-01 01:31:00,Attempt Quiz,Failure
+78,165,2024-01-01 02:24:00,Watch Video,Failure
+78,83,2024-01-01 08:27:00,Watch Video,In Progress
+78,49,2024-01-01 10:27:00,Attempt Quiz,Success
+78,260,2024-01-01 13:45:00,Watch Video,In Progress
+78,66,2024-01-01 15:37:00,Submit Assignment,Completed
+78,263,2024-01-01 16:05:00,Request Hint,In Progress
+78,264,2024-01-01 18:27:00,Read Material,Success
+78,65,2024-01-01 18:51:00,Request Hint,Success
+78,87,2024-01-01 19:15:00,Submit Assignment,Success
+78,117,2024-01-01 20:44:00,Request Hint,Failure
+78,250,2024-01-01 22:18:00,Attempt Quiz,Failure
+78,108,2024-01-01 23:03:00,Attempt Quiz,Failure
+78,89,2024-01-02 06:14:00,Read Material,In Progress
+78,239,2024-01-02 07:40:00,Attempt Quiz,Completed
+78,175,2024-01-02 08:41:00,Attempt Quiz,Completed
+79,293,2024-01-01 02:32:00,Watch Video,Success
+79,69,2024-01-01 03:27:00,Forum Discussion,Completed
+79,184,2024-01-01 14:15:00,Request Hint,Success
+79,143,2024-01-01 14:29:00,Watch Video,Completed
+79,87,2024-01-01 14:38:00,Forum Discussion,Completed
+79,72,2024-01-01 15:57:00,Forum Discussion,Success
+79,1,2024-01-01 17:23:00,Read Material,Success
+79,143,2024-01-01 17:30:00,Attempt Quiz,Completed
+79,227,2024-01-02 02:22:00,Submit Assignment,In Progress
+79,208,2024-01-02 03:44:00,Request Hint,Completed
+79,3,2024-01-02 04:59:00,Request Hint,In Progress
+79,240,2024-01-02 05:07:00,Attempt Quiz,Failure
+79,278,2024-01-02 06:41:00,Attempt Quiz,Failure
+79,24,2024-01-02 07:17:00,Submit Assignment,In Progress
+79,271,2024-01-02 08:23:00,Forum Discussion,Success
+80,111,2024-01-01 00:35:00,Forum Discussion,Success
+80,237,2024-01-01 01:36:00,Forum Discussion,Failure
+80,271,2024-01-01 04:16:00,Attempt Quiz,Success
+80,141,2024-01-01 05:00:00,Read Material,In Progress
+80,100,2024-01-01 05:22:00,Submit Assignment,Success
+80,219,2024-01-01 09:00:00,Request Hint,Completed
+80,86,2024-01-01 12:04:00,Read Material,In Progress
+80,22,2024-01-01 15:02:00,Submit Assignment,Success
+80,177,2024-01-02 01:51:00,Request Hint,Success
+80,120,2024-01-02 01:59:00,Submit Assignment,Failure
+80,81,2024-01-02 05:40:00,Watch Video,Completed
+80,22,2024-01-02 07:52:00,Request Hint,In Progress
+80,102,2024-01-02 08:13:00,Request Hint,Failure
+81,243,2024-01-01 01:08:00,Attempt Quiz,Completed
+81,145,2024-01-01 01:57:00,Submit Assignment,Success
+81,159,2024-01-01 03:41:00,Forum Discussion,Success
+81,42,2024-01-01 09:31:00,Submit Assignment,Failure
+81,113,2024-01-01 13:31:00,Forum Discussion,Completed
+81,178,2024-01-01 14:41:00,Forum Discussion,Failure
+81,267,2024-01-01 15:50:00,Submit Assignment,In Progress
+81,234,2024-01-01 21:47:00,Forum Discussion,Failure
+81,222,2024-01-01 23:50:00,Read Material,Failure
+81,30,2024-01-01 23:56:00,Request Hint,Failure
+81,135,2024-01-01 23:57:00,Forum Discussion,Completed
+81,30,2024-01-02 01:15:00,Watch Video,Failure
+81,218,2024-01-02 01:57:00,Attempt Quiz,Success
+81,274,2024-01-02 05:22:00,Attempt Quiz,Completed
+81,249,2024-01-02 07:29:00,Read Material,Success
+81,206,2024-01-02 07:46:00,Attempt Quiz,In Progress
+81,168,2024-01-02 08:58:00,Attempt Quiz,Success
+82,18,2024-01-01 01:37:00,Attempt Quiz,In Progress
+82,157,2024-01-01 04:33:00,Submit Assignment,In Progress
+82,68,2024-01-01 05:18:00,Read Material,Failure
+82,79,2024-01-01 09:56:00,Attempt Quiz,Completed
+82,117,2024-01-01 12:59:00,Forum Discussion,In Progress
+82,203,2024-01-01 14:27:00,Read Material,Completed
+82,68,2024-01-01 15:23:00,Forum Discussion,Success
+82,143,2024-01-01 20:28:00,Watch Video,Success
+82,290,2024-01-01 21:22:00,Forum Discussion,Failure
+82,242,2024-01-01 23:15:00,Watch Video,In Progress
+82,147,2024-01-01 23:27:00,Forum Discussion,Success
+82,235,2024-01-02 02:03:00,Watch Video,Failure
+82,137,2024-01-02 02:30:00,Read Material,Completed
+82,74,2024-01-02 02:59:00,Forum Discussion,Completed
+82,159,2024-01-02 04:34:00,Submit Assignment,Success
+82,34,2024-01-02 06:11:00,Submit Assignment,Completed
+82,242,2024-01-02 07:01:00,Attempt Quiz,Failure
+82,204,2024-01-02 09:04:00,Read Material,In Progress
+83,148,2024-01-01 00:06:00,Submit Assignment,Completed
+83,105,2024-01-01 10:30:00,Forum Discussion,Completed
+83,151,2024-01-01 11:14:00,Forum Discussion,In Progress
+83,261,2024-01-01 13:42:00,Read Material,Failure
+83,133,2024-01-01 16:43:00,Forum Discussion,Completed
+83,216,2024-01-01 18:50:00,Request Hint,In Progress
+83,285,2024-01-01 22:04:00,Attempt Quiz,Success
+83,275,2024-01-01 22:35:00,Attempt Quiz,Success
+83,53,2024-01-02 01:13:00,Request Hint,In Progress
+83,112,2024-01-02 01:53:00,Attempt Quiz,Failure
+83,257,2024-01-02 06:32:00,Submit Assignment,Success
+84,288,2024-01-01 00:59:00,Watch Video,In Progress
+84,8,2024-01-01 03:04:00,Attempt Quiz,Success
+84,170,2024-01-01 05:11:00,Forum Discussion,Success
+84,138,2024-01-01 09:05:00,Read Material,Success
+84,228,2024-01-01 10:12:00,Attempt Quiz,Completed
+84,159,2024-01-01 12:51:00,Watch Video,In Progress
+84,28,2024-01-01 14:50:00,Forum Discussion,Failure
+84,102,2024-01-01 16:32:00,Forum Discussion,Completed
+84,47,2024-01-01 17:19:00,Submit Assignment,In Progress
+84,134,2024-01-01 17:42:00,Request Hint,In Progress
+84,73,2024-01-01 18:09:00,Submit Assignment,Failure
+84,51,2024-01-01 21:48:00,Forum Discussion,In Progress
+84,181,2024-01-02 03:27:00,Read Material,Success
+84,169,2024-01-02 07:41:00,Submit Assignment,In Progress
+84,149,2024-01-02 07:54:00,Submit Assignment,In Progress
+84,192,2024-01-02 08:44:00,Submit Assignment,In Progress
+85,131,2024-01-01 01:35:00,Watch Video,Success
+85,50,2024-01-01 06:23:00,Submit Assignment,Failure
+85,40,2024-01-01 08:39:00,Request Hint,Completed
+85,149,2024-01-01 10:37:00,Attempt Quiz,Completed
+85,234,2024-01-01 12:05:00,Forum Discussion,Failure
+85,198,2024-01-01 13:14:00,Watch Video,In Progress
+85,90,2024-01-01 13:44:00,Read Material,Completed
+85,107,2024-01-01 14:16:00,Attempt Quiz,Failure
+85,172,2024-01-01 18:47:00,Forum Discussion,Failure
+85,260,2024-01-01 21:44:00,Forum Discussion,In Progress
+85,75,2024-01-01 23:10:00,Read Material,Success
+85,239,2024-01-01 23:21:00,Attempt Quiz,Failure
+85,194,2024-01-02 00:15:00,Submit Assignment,Failure
+85,290,2024-01-02 00:27:00,Forum Discussion,In Progress
+85,290,2024-01-02 00:42:00,Forum Discussion,Success
+85,28,2024-01-02 02:18:00,Watch Video,Completed
+86,64,2024-01-01 02:18:00,Read Material,In Progress
+86,217,2024-01-01 02:53:00,Request Hint,Success
+86,154,2024-01-01 04:09:00,Forum Discussion,In Progress
+86,11,2024-01-01 05:41:00,Attempt Quiz,In Progress
+86,150,2024-01-01 06:38:00,Forum Discussion,Success
+86,249,2024-01-01 07:17:00,Watch Video,Success
+86,12,2024-01-01 07:26:00,Request Hint,In Progress
+86,178,2024-01-01 08:24:00,Request Hint,In Progress
+86,211,2024-01-01 10:14:00,Submit Assignment,Failure
+86,203,2024-01-01 11:17:00,Submit Assignment,Success
+86,47,2024-01-01 13:18:00,Submit Assignment,In Progress
+86,262,2024-01-01 15:44:00,Forum Discussion,Failure
+86,238,2024-01-01 16:00:00,Attempt Quiz,In Progress
+86,109,2024-01-01 16:26:00,Attempt Quiz,Success
+86,131,2024-01-01 16:39:00,Submit Assignment,Success
+86,192,2024-01-01 19:42:00,Request Hint,Completed
+86,166,2024-01-01 20:47:00,Request Hint,Success
+86,245,2024-01-01 21:51:00,Forum Discussion,Completed
+86,286,2024-01-01 23:48:00,Read Material,Failure
+86,173,2024-01-02 00:26:00,Watch Video,In Progress
+86,41,2024-01-02 02:19:00,Request Hint,Failure
+86,53,2024-01-02 02:56:00,Attempt Quiz,Failure
+86,78,2024-01-02 08:51:00,Watch Video,Completed
+86,114,2024-01-02 09:15:00,Submit Assignment,Completed
+87,161,2024-01-01 00:07:00,Attempt Quiz,In Progress
+87,246,2024-01-01 01:32:00,Watch Video,In Progress
+87,82,2024-01-01 03:47:00,Watch Video,In Progress
+87,300,2024-01-01 06:25:00,Submit Assignment,In Progress
+87,226,2024-01-01 07:09:00,Read Material,Failure
+87,66,2024-01-01 07:15:00,Forum Discussion,Completed
+87,221,2024-01-01 09:30:00,Watch Video,Completed
+87,153,2024-01-01 10:52:00,Attempt Quiz,Failure
+87,132,2024-01-01 12:22:00,Forum Discussion,Completed
+87,268,2024-01-01 16:04:00,Watch Video,Success
+87,127,2024-01-01 20:56:00,Request Hint,In Progress
+87,196,2024-01-01 22:01:00,Watch Video,Failure
+87,284,2024-01-01 22:38:00,Watch Video,Success
+87,140,2024-01-01 22:50:00,Forum Discussion,Failure
+87,214,2024-01-01 23:36:00,Forum Discussion,Failure
+87,282,2024-01-01 23:54:00,Watch Video,Failure
+87,201,2024-01-02 00:10:00,Attempt Quiz,Success
+87,188,2024-01-02 00:25:00,Request Hint,In Progress
+87,217,2024-01-02 01:58:00,Attempt Quiz,Completed
+87,31,2024-01-02 02:28:00,Submit Assignment,Success
+87,13,2024-01-02 02:51:00,Read Material,Completed
+87,49,2024-01-02 04:26:00,Attempt Quiz,In Progress
+87,248,2024-01-02 07:22:00,Read Material,Failure
+88,2,2024-01-01 00:10:00,Request Hint,Completed
+88,103,2024-01-01 00:17:00,Forum Discussion,Success
+88,111,2024-01-01 01:51:00,Request Hint,Completed
+88,84,2024-01-01 01:54:00,Watch Video,Success
+88,276,2024-01-01 02:14:00,Read Material,In Progress
+88,63,2024-01-01 03:31:00,Read Material,Success
+88,131,2024-01-01 14:37:00,Forum Discussion,Success
+88,43,2024-01-01 14:51:00,Forum Discussion,Failure
+88,259,2024-01-01 16:06:00,Submit Assignment,Success
+88,39,2024-01-01 19:53:00,Read Material,Completed
+88,176,2024-01-01 21:36:00,Watch Video,In Progress
+88,47,2024-01-01 22:49:00,Watch Video,Success
+88,154,2024-01-01 23:02:00,Watch Video,Failure
+88,198,2024-01-02 01:52:00,Request Hint,Failure
+88,111,2024-01-02 03:48:00,Submit Assignment,Failure
+88,98,2024-01-02 04:00:00,Attempt Quiz,Success
+88,282,2024-01-02 04:37:00,Attempt Quiz,Success
+88,209,2024-01-02 05:06:00,Forum Discussion,In Progress
+88,94,2024-01-02 05:38:00,Attempt Quiz,Completed
+88,91,2024-01-02 06:29:00,Request Hint,In Progress
+88,270,2024-01-02 08:53:00,Submit Assignment,Completed
+88,83,2024-01-02 09:17:00,Watch Video,Completed
+89,73,2024-01-01 00:28:00,Attempt Quiz,Completed
+89,147,2024-01-01 00:52:00,Forum Discussion,Completed
+89,282,2024-01-01 01:41:00,Read Material,Failure
+89,2,2024-01-01 01:48:00,Request Hint,Completed
+89,86,2024-01-01 03:09:00,Watch Video,Completed
+89,144,2024-01-01 04:38:00,Submit Assignment,In Progress
+89,152,2024-01-01 05:13:00,Watch Video,Failure
+89,31,2024-01-01 08:10:00,Submit Assignment,Completed
+89,10,2024-01-01 09:45:00,Forum Discussion,Completed
+89,17,2024-01-01 10:07:00,Submit Assignment,Failure
+89,139,2024-01-01 10:13:00,Submit Assignment,Completed
+89,150,2024-01-01 11:20:00,Forum Discussion,Failure
+89,240,2024-01-01 13:17:00,Request Hint,Success
+89,32,2024-01-01 16:20:00,Request Hint,Success
+89,47,2024-01-01 18:55:00,Request Hint,Success
+89,147,2024-01-01 18:57:00,Forum Discussion,Success
+89,41,2024-01-01 20:29:00,Watch Video,Success
+89,75,2024-01-02 01:26:00,Watch Video,Success
+89,13,2024-01-02 02:04:00,Attempt Quiz,Completed
+89,54,2024-01-02 04:42:00,Watch Video,Failure
+89,36,2024-01-02 05:50:00,Forum Discussion,Failure
+89,292,2024-01-02 08:18:00,Read Material,Success
+89,151,2024-01-02 09:10:00,Attempt Quiz,Completed
+90,221,2024-01-01 00:56:00,Forum Discussion,Failure
+90,50,2024-01-01 01:20:00,Attempt Quiz,Failure
+90,207,2024-01-01 02:28:00,Watch Video,In Progress
+90,282,2024-01-01 02:34:00,Request Hint,Success
+90,199,2024-01-01 03:55:00,Request Hint,In Progress
+90,292,2024-01-01 04:23:00,Forum Discussion,Success
+90,108,2024-01-01 04:47:00,Submit Assignment,Completed
+90,106,2024-01-01 06:43:00,Submit Assignment,In Progress
+90,141,2024-01-01 07:58:00,Forum Discussion,Success
+90,117,2024-01-01 07:59:00,Read Material,Success
+90,260,2024-01-01 08:36:00,Forum Discussion,Completed
+90,260,2024-01-01 08:37:00,Forum Discussion,Failure
+90,21,2024-01-01 09:32:00,Request Hint,In Progress
+90,17,2024-01-01 09:37:00,Submit Assignment,Failure
+90,44,2024-01-01 11:32:00,Forum Discussion,Completed
+90,119,2024-01-01 12:36:00,Submit Assignment,Failure
+90,168,2024-01-01 15:33:00,Forum Discussion,Completed
+90,248,2024-01-01 15:38:00,Submit Assignment,Completed
+90,210,2024-01-01 16:02:00,Read Material,Failure
+90,21,2024-01-01 16:27:00,Forum Discussion,Completed
+90,142,2024-01-01 17:48:00,Read Material,Completed
+90,147,2024-01-01 20:22:00,Forum Discussion,Failure
+90,113,2024-01-01 20:25:00,Watch Video,Completed
+90,213,2024-01-01 20:53:00,Request Hint,Failure
+90,48,2024-01-01 21:17:00,Watch Video,In Progress
+90,235,2024-01-02 02:49:00,Request Hint,In Progress
+90,59,2024-01-02 04:18:00,Submit Assignment,Failure
+90,169,2024-01-02 05:12:00,Submit Assignment,In Progress
+90,84,2024-01-02 07:00:00,Watch Video,Completed
+91,41,2024-01-01 00:30:00,Forum Discussion,Completed
+91,284,2024-01-01 02:19:00,Watch Video,Failure
+91,149,2024-01-01 09:04:00,Forum Discussion,In Progress
+91,95,2024-01-01 11:30:00,Forum Discussion,Completed
+91,199,2024-01-01 14:30:00,Forum Discussion,Failure
+91,156,2024-01-01 21:23:00,Attempt Quiz,In Progress
+91,196,2024-01-01 21:25:00,Submit Assignment,Failure
+91,16,2024-01-02 00:32:00,Forum Discussion,Success
+91,247,2024-01-02 05:34:00,Attempt Quiz,In Progress
+91,282,2024-01-02 06:51:00,Forum Discussion,Completed
+92,178,2024-01-01 00:33:00,Submit Assignment,Completed
+92,300,2024-01-01 01:00:00,Watch Video,Completed
+92,5,2024-01-01 03:08:00,Forum Discussion,Success
+92,102,2024-01-01 03:45:00,Attempt Quiz,Failure
+92,291,2024-01-01 04:36:00,Attempt Quiz,Completed
+92,229,2024-01-01 06:07:00,Attempt Quiz,Failure
+92,292,2024-01-01 07:11:00,Attempt Quiz,Success
+92,110,2024-01-01 07:55:00,Forum Discussion,Success
+92,99,2024-01-01 08:28:00,Read Material,Completed
+92,230,2024-01-01 09:02:00,Watch Video,Failure
+92,191,2024-01-01 11:38:00,Forum Discussion,Failure
+92,23,2024-01-01 11:41:00,Read Material,Failure
+92,111,2024-01-01 11:48:00,Read Material,Failure
+92,20,2024-01-01 12:34:00,Read Material,Failure
+92,216,2024-01-01 12:42:00,Request Hint,Completed
+92,60,2024-01-01 12:53:00,Request Hint,In Progress
+92,107,2024-01-01 13:30:00,Request Hint,Failure
+92,57,2024-01-01 13:56:00,Watch Video,Success
+92,214,2024-01-01 15:24:00,Request Hint,Failure
+92,201,2024-01-01 17:20:00,Request Hint,Success
+92,39,2024-01-01 20:39:00,Read Material,Failure
+92,30,2024-01-01 21:52:00,Request Hint,Success
+92,139,2024-01-01 22:21:00,Request Hint,In Progress
+92,145,2024-01-01 22:40:00,Submit Assignment,Completed
+92,46,2024-01-01 22:57:00,Read Material,Success
+92,295,2024-01-02 00:43:00,Request Hint,In Progress
+92,46,2024-01-02 04:50:00,Submit Assignment,Success
+92,84,2024-01-02 05:42:00,Attempt Quiz,In Progress
+92,47,2024-01-02 07:48:00,Attempt Quiz,Failure
+93,46,2024-01-01 00:01:00,Request Hint,Success
+93,220,2024-01-01 01:17:00,Forum Discussion,Completed
+93,43,2024-01-01 04:17:00,Forum Discussion,Completed
+93,154,2024-01-01 05:16:00,Attempt Quiz,Completed
+93,73,2024-01-01 06:09:00,Watch Video,Success
+93,130,2024-01-01 06:15:00,Attempt Quiz,In Progress
+93,3,2024-01-01 06:50:00,Read Material,Success
+93,151,2024-01-01 08:18:00,Attempt Quiz,In Progress
+93,113,2024-01-01 09:34:00,Read Material,Failure
+93,124,2024-01-01 10:53:00,Read Material,Completed
+93,99,2024-01-01 15:15:00,Submit Assignment,Completed
+93,35,2024-01-01 18:40:00,Request Hint,Failure
+93,68,2024-01-01 22:11:00,Request Hint,Success
+93,64,2024-01-01 22:44:00,Read Material,Success
+93,16,2024-01-02 02:29:00,Forum Discussion,In Progress
+93,138,2024-01-02 02:55:00,Forum Discussion,Success
+93,119,2024-01-02 03:19:00,Request Hint,Success
+93,143,2024-01-02 04:12:00,Submit Assignment,Completed
+93,285,2024-01-02 05:27:00,Attempt Quiz,Success
+93,241,2024-01-02 06:16:00,Read Material,Success
+93,68,2024-01-02 06:44:00,Forum Discussion,In Progress
+93,228,2024-01-02 07:49:00,Forum Discussion,Success
+93,88,2024-01-02 08:20:00,Watch Video,Completed
+93,81,2024-01-02 08:29:00,Watch Video,Completed
+94,179,2024-01-01 02:43:00,Attempt Quiz,Completed
+94,2,2024-01-01 04:42:00,Request Hint,Completed
+94,66,2024-01-01 07:42:00,Attempt Quiz,Success
+94,190,2024-01-01 08:31:00,Watch Video,Completed
+94,124,2024-01-01 08:43:00,Attempt Quiz,Success
+94,106,2024-01-01 14:09:00,Forum Discussion,In Progress
+94,217,2024-01-01 14:10:00,Attempt Quiz,In Progress
+94,279,2024-01-01 15:46:00,Read Material,Success
+94,180,2024-01-01 17:02:00,Read Material,Completed
+94,279,2024-01-01 17:06:00,Request Hint,Success
+94,128,2024-01-01 17:25:00,Request Hint,Failure
+94,142,2024-01-01 18:20:00,Watch Video,Success
+94,237,2024-01-01 19:31:00,Submit Assignment,Failure
+94,134,2024-01-01 22:00:00,Submit Assignment,Completed
+94,92,2024-01-01 22:22:00,Forum Discussion,Success
+94,204,2024-01-01 23:42:00,Forum Discussion,In Progress
+94,209,2024-01-02 01:36:00,Submit Assignment,Failure
+94,100,2024-01-02 02:32:00,Watch Video,Success
+94,175,2024-01-02 03:30:00,Request Hint,Failure
+94,237,2024-01-02 06:42:00,Read Material,Failure
+94,76,2024-01-02 08:40:00,Forum Discussion,Success
+94,240,2024-01-02 09:02:00,Submit Assignment,Completed
+95,66,2024-01-01 01:27:00,Request Hint,Success
+95,160,2024-01-01 06:18:00,Read Material,Completed
+95,172,2024-01-01 06:30:00,Watch Video,Success
+95,256,2024-01-01 08:50:00,Forum Discussion,Failure
+95,82,2024-01-01 09:26:00,Submit Assignment,Completed
+95,292,2024-01-01 10:28:00,Forum Discussion,In Progress
+95,271,2024-01-01 10:49:00,Watch Video,Failure
+95,118,2024-01-01 13:33:00,Submit Assignment,Completed
+95,31,2024-01-01 13:57:00,Submit Assignment,Success
+95,112,2024-01-01 15:03:00,Submit Assignment,In Progress
+95,176,2024-01-01 17:07:00,Watch Video,Success
+95,66,2024-01-01 17:16:00,Attempt Quiz,Failure
+95,203,2024-01-01 18:21:00,Forum Discussion,Failure
+95,240,2024-01-01 20:07:00,Forum Discussion,In Progress
+95,203,2024-01-01 23:12:00,Watch Video,In Progress
+95,179,2024-01-02 01:55:00,Attempt Quiz,Success
+95,166,2024-01-02 02:31:00,Request Hint,Success
+95,274,2024-01-02 06:25:00,Read Material,Success
+95,80,2024-01-02 09:05:00,Request Hint,Completed
+96,198,2024-01-01 02:39:00,Request Hint,Completed
+96,59,2024-01-01 02:41:00,Attempt Quiz,Failure
+96,192,2024-01-01 03:30:00,Watch Video,Failure
+96,279,2024-01-01 03:48:00,Submit Assignment,In Progress
+96,277,2024-01-01 04:27:00,Read Material,Success
+96,163,2024-01-01 07:41:00,Attempt Quiz,Completed
+96,92,2024-01-01 08:08:00,Watch Video,Completed
+96,14,2024-01-01 08:54:00,Request Hint,Completed
+96,173,2024-01-01 09:57:00,Read Material,Completed
+96,8,2024-01-01 10:01:00,Attempt Quiz,In Progress
+96,293,2024-01-01 12:27:00,Submit Assignment,Success
+96,251,2024-01-01 13:11:00,Submit Assignment,Completed
+96,294,2024-01-01 15:12:00,Forum Discussion,Failure
+96,35,2024-01-01 21:58:00,Watch Video,Completed
+96,147,2024-01-01 23:01:00,Watch Video,Success
+96,113,2024-01-01 23:55:00,Request Hint,In Progress
+96,24,2024-01-02 03:13:00,Forum Discussion,In Progress
+96,260,2024-01-02 05:25:00,Watch Video,Success
+96,99,2024-01-02 06:20:00,Read Material,In Progress
+96,266,2024-01-02 06:36:00,Read Material,Success
+96,149,2024-01-02 06:48:00,Request Hint,Completed
+97,290,2024-01-01 03:11:00,Attempt Quiz,Completed
+97,147,2024-01-01 03:23:00,Watch Video,Completed
+97,129,2024-01-01 03:49:00,Watch Video,In Progress
+97,133,2024-01-01 04:12:00,Forum Discussion,Completed
+97,167,2024-01-01 05:53:00,Request Hint,In Progress
+97,188,2024-01-01 05:56:00,Forum Discussion,Success
+97,230,2024-01-01 06:21:00,Submit Assignment,Failure
+97,216,2024-01-01 07:34:00,Forum Discussion,In Progress
+97,69,2024-01-01 14:36:00,Attempt Quiz,Failure
+97,251,2024-01-01 17:43:00,Attempt Quiz,Failure
+97,132,2024-01-01 19:06:00,Submit Assignment,Completed
+97,67,2024-01-01 19:10:00,Submit Assignment,Success
+97,257,2024-01-01 19:13:00,Forum Discussion,Completed
+97,136,2024-01-01 19:37:00,Watch Video,Success
+97,41,2024-01-01 19:47:00,Read Material,Completed
+97,258,2024-01-01 20:30:00,Submit Assignment,In Progress
+97,8,2024-01-01 22:37:00,Read Material,Failure
+97,20,2024-01-01 22:56:00,Read Material,Failure
+97,88,2024-01-02 05:43:00,Forum Discussion,Completed
+98,117,2024-01-01 04:07:00,Submit Assignment,Completed
+98,146,2024-01-01 05:50:00,Watch Video,Completed
+98,151,2024-01-01 07:12:00,Attempt Quiz,Failure
+98,137,2024-01-01 13:24:00,Request Hint,Completed
+98,70,2024-01-01 14:23:00,Submit Assignment,Completed
+98,248,2024-01-01 14:26:00,Submit Assignment,Success
+98,165,2024-01-01 14:33:00,Request Hint,Failure
+98,213,2024-01-01 16:50:00,Read Material,Completed
+98,169,2024-01-01 23:44:00,Request Hint,Completed
+98,128,2024-01-02 00:09:00,Submit Assignment,In Progress
+98,145,2024-01-02 00:34:00,Attempt Quiz,Failure
+98,32,2024-01-02 01:04:00,Watch Video,Success
+98,260,2024-01-02 01:17:00,Attempt Quiz,In Progress
+98,88,2024-01-02 01:37:00,Request Hint,Completed
+98,149,2024-01-02 02:44:00,Read Material,In Progress
+98,124,2024-01-02 04:04:00,Submit Assignment,Success
+98,233,2024-01-02 04:16:00,Submit Assignment,Success
+98,224,2024-01-02 04:46:00,Watch Video,Failure
+98,78,2024-01-02 04:55:00,Attempt Quiz,Completed
+98,161,2024-01-02 05:05:00,Attempt Quiz,Completed
+98,299,2024-01-02 05:32:00,Read Material,Success
+98,173,2024-01-02 06:26:00,Forum Discussion,In Progress
+98,203,2024-01-02 06:37:00,Watch Video,Success
+98,279,2024-01-02 07:24:00,Request Hint,Failure
+98,254,2024-01-02 07:26:00,Request Hint,Success
+99,171,2024-01-01 02:16:00,Request Hint,In Progress
+99,175,2024-01-01 02:22:00,Submit Assignment,In Progress
+99,132,2024-01-01 04:44:00,Watch Video,Success
+99,172,2024-01-01 04:57:00,Read Material,Success
+99,72,2024-01-01 05:12:00,Submit Assignment,Success
+99,208,2024-01-01 05:14:00,Read Material,Failure
+99,196,2024-01-01 06:12:00,Submit Assignment,Success
+99,149,2024-01-01 06:19:00,Watch Video,Completed
+99,237,2024-01-01 06:53:00,Read Material,Failure
+99,206,2024-01-01 07:44:00,Forum Discussion,Failure
+99,290,2024-01-01 09:52:00,Submit Assignment,In Progress
+99,214,2024-01-01 09:54:00,Watch Video,Failure
+99,133,2024-01-01 10:08:00,Watch Video,Completed
+99,119,2024-01-01 10:33:00,Request Hint,Failure
+99,12,2024-01-01 12:08:00,Forum Discussion,In Progress
+99,90,2024-01-01 13:25:00,Watch Video,Completed
+99,164,2024-01-01 15:55:00,Attempt Quiz,Failure
+99,260,2024-01-01 16:17:00,Attempt Quiz,Completed
+99,120,2024-01-01 18:32:00,Submit Assignment,Failure
+99,184,2024-01-01 23:47:00,Attempt Quiz,Success
+99,183,2024-01-02 01:02:00,Submit Assignment,Completed
+99,22,2024-01-02 01:14:00,Attempt Quiz,Success
+99,173,2024-01-02 02:34:00,Attempt Quiz,Completed
+99,274,2024-01-02 02:41:00,Read Material,Failure
+99,258,2024-01-02 03:05:00,Request Hint,Success
+99,29,2024-01-02 03:14:00,Watch Video,Success
+99,102,2024-01-02 04:29:00,Request Hint,Success
+99,84,2024-01-02 04:40:00,Attempt Quiz,Completed
+99,46,2024-01-02 07:09:00,Forum Discussion,Failure
+99,188,2024-01-02 07:30:00,Request Hint,Failure
+100,225,2024-01-01 00:11:00,Read Material,In Progress
+100,117,2024-01-01 01:25:00,Read Material,Success
+100,202,2024-01-01 05:25:00,Request Hint,In Progress
+100,101,2024-01-01 08:41:00,Submit Assignment,Completed
+100,116,2024-01-01 08:47:00,Submit Assignment,In Progress
+100,8,2024-01-01 10:19:00,Attempt Quiz,In Progress
+100,164,2024-01-01 10:38:00,Submit Assignment,In Progress
+100,186,2024-01-01 12:44:00,Read Material,Success
+100,25,2024-01-01 16:38:00,Watch Video,Failure
+100,84,2024-01-01 17:54:00,Watch Video,Success
+100,41,2024-01-01 19:52:00,Submit Assignment,Failure
+100,266,2024-01-01 20:34:00,Forum Discussion,In Progress
+100,104,2024-01-02 00:17:00,Submit Assignment,In Progress
+100,255,2024-01-02 05:53:00,Request Hint,Completed
+100,129,2024-01-02 06:12:00,Forum Discussion,In Progress
+100,99,2024-01-02 06:49:00,Read Material,Success
+100,65,2024-01-02 08:45:00,Request Hint,Success
